@@ -1,0 +1,17 @@
+{
+    "data_folder" : "Dataset/TestDataset/",
+    "data_path":{
+        "dos" : "Dataset/TestDataset/1000doS_dataset.csv",
+        "fuzzy" : "Dataset/TestDataset/1000fuzzy_dataset.csv",
+        "gear" : "Dataset/TestDataset/1000gear_dataset.csv",
+        "rpm" : "Dataset/TestDataset/1000rpm_dataset.csv",
+        "normal" : "Dataset/TestDataset/1000normal_dataset.csv",
+        "all" : "Dataset/CleanDataset/Cleaned_All_dataset.csv"
+    },  
+    "datasets" : ["all"],
+    "train_models" : ["LOGR","MLP","SGD","LRG","CNN"],
+    "dataset_columns":["Timestamp", "CAN_ID", "DLC", "DATA0", "DATA1","DATA2", "DATA3", "DATA4", "DATA5", "DATA6", "DATA7", "Flag"],
+    "log_folder" : "logs",
+    "log_filename" : "dev_logs.txt",
+    "train_model_folder":"TrainedModels"
+}

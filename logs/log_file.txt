@@ -1,0 +1,1746 @@
+2024-04-22 00:31:43,657 - INFO - #####################################
+2024-04-22 00:31:43,657 - INFO - Running dataset: [dos]
+2024-04-22 00:31:43,657 - INFO - #####################################
+2024-04-22 00:32:04,788 - INFO - Starting SVC model...[2024-04-22 00:32:04]
+2024-04-22 00:32:04,794 - INFO - Starting SVC model...
+2024-04-22 01:18:23,365 - INFO - SVC model finished. Elapsed time: 0:46:18.570463
+2024-04-22 01:18:23,381 - INFO - SVC model finished. Elapsed time: 0:46:18.593502
+2024-04-22 01:18:23,593 - INFO - Starting MLP model...[2024-04-22 01:18:23]
+2024-04-22 01:18:23,594 - INFO - MLP model finished. Elapsed time: 0:00:00.000999
+2024-04-22 01:18:23,594 - INFO - Starting MLP model...
+2024-04-22 01:23:46,666 - INFO - MLP model finished. Elapsed time: 0:05:23.071542
+2024-04-22 01:23:46,824 - INFO - Starting SGD model...[2024-04-22 01:23:46]
+2024-04-22 01:23:46,824 - INFO - Starting SGD model...
+2024-04-22 01:24:04,841 - INFO - SGD model finished. Elapsed time: 0:00:18.017121
+2024-04-22 01:24:04,841 - INFO - SGD model finished. Elapsed time: 0:00:18.017121
+2024-04-22 01:24:05,005 - INFO - Starting Linear regression model...[2024-04-22 01:24:05]
+2024-04-22 01:24:05,008 - INFO - Starting Linear regression model...
+2024-04-22 01:24:06,528 - INFO - Linear regression model finished. Elapsed time: 0:00:01.520829
+2024-04-22 01:24:06,528 - INFO - Linear regression model finished. Elapsed time: 0:00:01.523435
+2024-04-22 19:43:52,911 - INFO - #####################################
+2024-04-22 19:43:52,914 - INFO - Running dataset: [fuzzy]
+2024-04-22 19:43:52,915 - INFO - #####################################
+2024-04-22 22:37:05,440 - INFO - #####################################
+2024-04-22 22:37:05,440 - INFO - Running dataset: [fuzzy]
+2024-04-22 22:37:05,441 - INFO - #####################################
+2024-04-22 22:37:28,818 - INFO - Starting SVC model...[2024-04-22 22:37:28]
+2024-04-22 22:37:28,819 - INFO - Starting SVC model...
+2024-04-23 21:33:38,303 - INFO - #####################################
+2024-04-23 21:33:38,305 - INFO - Running dataset: [fuzzy]
+2024-04-23 21:33:38,305 - INFO - #####################################
+2024-04-23 21:34:21,159 - INFO - Starting SVC model...[2024-04-23 21:34:21]
+2024-04-23 21:34:21,166 - INFO - Starting SVC model...
+2024-04-23 22:59:56,602 - INFO - #####################################
+2024-04-23 22:59:56,604 - INFO - Running dataset: [fuzzy]
+2024-04-23 22:59:56,604 - INFO - #####################################
+2024-04-23 23:00:19,005 - INFO - Starting MLP model...[2024-04-23 23:00:19]
+2024-04-23 23:00:19,006 - INFO - MLP model finished. Elapsed time: 0:00:00.002000
+2024-04-23 23:00:19,007 - INFO - Starting MLP model...
+2024-04-23 23:07:33,541 - INFO - MLP model finished. Elapsed time: 0:07:14.533887
+2024-04-23 23:09:39,465 - INFO - #####################################
+2024-04-23 23:09:39,465 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:09:39,465 - INFO - #####################################
+2024-04-23 23:10:00,980 - INFO - Starting MLP model...[2024-04-23 23:10:00]
+2024-04-23 23:10:00,983 - INFO - MLP model finished. Elapsed time: 0:00:00.004000
+2024-04-23 23:10:00,984 - INFO - Starting MLP model...
+2024-04-23 23:17:51,084 - INFO - MLP model finished. Elapsed time: 0:07:50.100152
+2024-04-23 23:29:05,018 - INFO - #####################################
+2024-04-23 23:29:05,018 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:29:05,019 - INFO - #####################################
+2024-04-23 23:29:05,100 - INFO - Starting MLP model...[2024-04-23 23:29:05]
+2024-04-23 23:29:05,101 - INFO - MLP model finished. Elapsed time: 0:00:00.001000
+2024-04-23 23:29:05,101 - INFO - Starting MLP model...
+2024-04-23 23:29:05,421 - INFO - MLP model finished. Elapsed time: 0:00:00.320335
+2024-04-23 23:30:24,017 - INFO - #####################################
+2024-04-23 23:30:24,017 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:30:24,017 - INFO - #####################################
+2024-04-23 23:30:24,039 - INFO - Starting MLP model...[2024-04-23 23:30:24]
+2024-04-23 23:30:24,039 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:30:24,039 - INFO - Starting MLP model...
+2024-04-23 23:30:24,325 - INFO - MLP model finished. Elapsed time: 0:00:00.285802
+2024-04-23 23:31:01,203 - INFO - #####################################
+2024-04-23 23:31:01,204 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:31:01,205 - INFO - #####################################
+2024-04-23 23:31:01,228 - INFO - Starting MLP model...[2024-04-23 23:31:01]
+2024-04-23 23:31:01,228 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:31:01,228 - INFO - Starting MLP model...
+2024-04-23 23:31:01,394 - INFO - MLP model finished. Elapsed time: 0:00:00.166543
+2024-04-23 23:31:25,691 - INFO - #####################################
+2024-04-23 23:31:25,692 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:31:25,692 - INFO - #####################################
+2024-04-23 23:31:25,716 - INFO - Starting MLP model...[2024-04-23 23:31:25]
+2024-04-23 23:31:25,717 - INFO - MLP model finished. Elapsed time: 0:00:00.001019
+2024-04-23 23:31:25,717 - INFO - Starting MLP model...
+2024-04-23 23:31:26,020 - INFO - MLP model finished. Elapsed time: 0:00:00.303376
+2024-04-23 23:32:10,650 - INFO - #####################################
+2024-04-23 23:32:10,651 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:32:10,651 - INFO - #####################################
+2024-04-23 23:32:10,672 - INFO - Starting MLP model...[2024-04-23 23:32:10]
+2024-04-23 23:32:10,672 - INFO - MLP model finished. Elapsed time: 0:00:00.001003
+2024-04-23 23:32:10,672 - INFO - Starting MLP model...
+2024-04-23 23:32:10,825 - INFO - MLP model finished. Elapsed time: 0:00:00.153123
+2024-04-23 23:34:02,506 - INFO - #####################################
+2024-04-23 23:34:02,506 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:34:02,506 - INFO - #####################################
+2024-04-23 23:34:02,525 - INFO - Starting MLP model...[2024-04-23 23:34:02]
+2024-04-23 23:34:02,525 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:34:02,525 - INFO - Starting MLP model...
+2024-04-23 23:34:02,688 - INFO - MLP model finished. Elapsed time: 0:00:00.162468
+2024-04-23 23:34:33,769 - INFO - #####################################
+2024-04-23 23:34:33,770 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:34:33,770 - INFO - #####################################
+2024-04-23 23:34:33,794 - INFO - Starting MLP model...[2024-04-23 23:34:33]
+2024-04-23 23:34:33,794 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:34:33,794 - INFO - Starting MLP model...
+2024-04-23 23:34:33,914 - INFO - MLP model finished. Elapsed time: 0:00:00.119545
+2024-04-23 23:36:41,651 - INFO - #####################################
+2024-04-23 23:36:41,651 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:36:41,651 - INFO - #####################################
+2024-04-23 23:36:41,672 - INFO - Starting MLP model...[2024-04-23 23:36:41]
+2024-04-23 23:36:41,673 - INFO - MLP model finished. Elapsed time: 0:00:00.001005
+2024-04-23 23:36:41,673 - INFO - Starting MLP model...
+2024-04-23 23:36:41,851 - INFO - MLP model finished. Elapsed time: 0:00:00.178074
+2024-04-23 23:40:00,616 - INFO - #####################################
+2024-04-23 23:40:00,617 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:40:00,617 - INFO - #####################################
+2024-04-23 23:40:00,646 - INFO - Starting MLP model...[2024-04-23 23:40:00]
+2024-04-23 23:40:00,646 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:40:00,646 - INFO - Starting MLP model...
+2024-04-23 23:40:00,854 - INFO - MLP model finished. Elapsed time: 0:00:00.208591
+2024-04-23 23:40:28,865 - INFO - #####################################
+2024-04-23 23:40:28,865 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:40:28,865 - INFO - #####################################
+2024-04-23 23:40:28,886 - INFO - Starting MLP model...[2024-04-23 23:40:28]
+2024-04-23 23:40:28,886 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:40:28,886 - INFO - Starting MLP model...
+2024-04-23 23:40:29,221 - INFO - MLP model finished. Elapsed time: 0:00:00.335074
+2024-04-23 23:41:11,183 - INFO - #####################################
+2024-04-23 23:41:11,188 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:41:11,188 - INFO - #####################################
+2024-04-23 23:41:11,207 - INFO - Starting MLP model...[2024-04-23 23:41:11]
+2024-04-23 23:41:11,207 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:41:11,207 - INFO - Starting MLP model...
+2024-04-23 23:41:11,350 - INFO - MLP model finished. Elapsed time: 0:00:00.143595
+2024-04-23 23:41:43,388 - INFO - #####################################
+2024-04-23 23:41:43,388 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:41:43,389 - INFO - #####################################
+2024-04-23 23:41:43,408 - INFO - Starting MLP model...[2024-04-23 23:41:43]
+2024-04-23 23:41:43,408 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:41:43,408 - INFO - Starting MLP model...
+2024-04-23 23:41:43,533 - INFO - MLP model finished. Elapsed time: 0:00:00.125644
+2024-04-23 23:42:26,524 - INFO - #####################################
+2024-04-23 23:42:26,524 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:42:26,524 - INFO - #####################################
+2024-04-23 23:42:26,544 - INFO - Starting MLP model...[2024-04-23 23:42:26]
+2024-04-23 23:42:26,544 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:42:26,544 - INFO - Starting MLP model...
+2024-04-23 23:42:26,729 - INFO - MLP model finished. Elapsed time: 0:00:00.184825
+2024-04-23 23:43:36,084 - INFO - #####################################
+2024-04-23 23:43:36,085 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:43:36,085 - INFO - #####################################
+2024-04-23 23:43:36,111 - INFO - Starting MLP model...[2024-04-23 23:43:36]
+2024-04-23 23:43:36,111 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:43:36,111 - INFO - Starting MLP model...
+2024-04-23 23:43:36,289 - INFO - MLP model finished. Elapsed time: 0:00:00.178411
+2024-04-23 23:44:26,787 - INFO - #####################################
+2024-04-23 23:44:26,788 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:44:26,788 - INFO - #####################################
+2024-04-23 23:44:26,813 - INFO - Starting MLP model...[2024-04-23 23:44:26]
+2024-04-23 23:44:26,813 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:44:26,813 - INFO - Starting MLP model...
+2024-04-23 23:44:26,968 - INFO - MLP model finished. Elapsed time: 0:00:00.155210
+2024-04-23 23:45:10,768 - INFO - #####################################
+2024-04-23 23:45:10,768 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:45:10,768 - INFO - #####################################
+2024-04-23 23:45:10,791 - INFO - Starting MLP model...[2024-04-23 23:45:10]
+2024-04-23 23:45:10,791 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:45:10,791 - INFO - Starting MLP model...
+2024-04-23 23:45:10,930 - INFO - MLP model finished. Elapsed time: 0:00:00.138881
+2024-04-23 23:46:26,774 - INFO - #####################################
+2024-04-23 23:46:26,774 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:46:26,774 - INFO - #####################################
+2024-04-23 23:46:26,802 - INFO - Starting MLP model...[2024-04-23 23:46:26]
+2024-04-23 23:46:26,802 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-23 23:46:26,802 - INFO - Starting MLP model...
+2024-04-23 23:46:27,116 - INFO - MLP model finished. Elapsed time: 0:00:00.314546
+2024-04-23 23:46:27,118 - INFO - Starting SGD model...[2024-04-23 23:46:27]
+2024-04-23 23:46:27,118 - INFO - Starting SGD model...
+2024-04-23 23:46:27,126 - INFO - SGD model finished. Elapsed time: 0:00:00.008000
+2024-04-23 23:46:27,127 - INFO - SGD model finished. Elapsed time: 0:00:00.009008
+2024-04-23 23:46:27,128 - INFO - Starting Linear regression model...[2024-04-23 23:46:27]
+2024-04-23 23:46:27,129 - INFO - Starting Linear regression model...
+2024-04-23 23:46:27,157 - INFO - Linear regression model finished. Elapsed time: 0:00:00.027680
+2024-04-23 23:46:27,157 - INFO - Linear regression model finished. Elapsed time: 0:00:00.028679
+2024-04-23 23:46:27,159 - INFO - Starting CNN model...[2024-04-23 23:46:27]
+2024-04-23 23:46:27,159 - INFO - Starting CNN model...
+2024-04-23 23:47:08,985 - INFO - #####################################
+2024-04-23 23:47:08,985 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:47:08,985 - INFO - #####################################
+2024-04-23 23:47:09,005 - INFO - Starting MLP model...[2024-04-23 23:47:09]
+2024-04-23 23:47:09,006 - INFO - MLP model finished. Elapsed time: 0:00:00.001014
+2024-04-23 23:47:09,006 - INFO - Starting MLP model...
+2024-04-23 23:47:09,077 - INFO - MLP model finished. Elapsed time: 0:00:00.071451
+2024-04-23 23:47:09,080 - INFO - Starting SGD model...[2024-04-23 23:47:09]
+2024-04-23 23:47:09,080 - INFO - Starting SGD model...
+2024-04-23 23:47:09,081 - INFO - SGD model finished. Elapsed time: 0:00:00.001001
+2024-04-23 23:47:09,081 - INFO - SGD model finished. Elapsed time: 0:00:00.001001
+2024-04-23 23:47:09,083 - INFO - Starting Linear regression model...[2024-04-23 23:47:09]
+2024-04-23 23:47:09,083 - INFO - Starting Linear regression model...
+2024-04-23 23:47:09,085 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002000
+2024-04-23 23:47:09,085 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002000
+2024-04-23 23:47:09,087 - INFO - Starting CNN model...[2024-04-23 23:47:09]
+2024-04-23 23:47:09,087 - INFO - Starting CNN model...
+2024-04-23 23:48:00,798 - INFO - #####################################
+2024-04-23 23:48:00,798 - INFO - Running dataset: [fuzzy]
+2024-04-23 23:48:00,798 - INFO - #####################################
+2024-04-23 23:48:24,127 - INFO - Starting MLP model...[2024-04-23 23:48:24]
+2024-04-23 23:48:24,132 - INFO - MLP model finished. Elapsed time: 0:00:00.007167
+2024-04-23 23:48:24,132 - INFO - Starting MLP model...
+2024-04-23 23:56:17,029 - INFO - MLP model finished. Elapsed time: 0:07:52.896794
+2024-04-24 10:13:41,291 - INFO - #####################################
+2024-04-24 10:13:41,299 - INFO - Running dataset: [fuzzy]
+2024-04-24 10:13:41,299 - INFO - #####################################
+2024-04-24 10:14:12,939 - INFO - Starting MLP model...[2024-04-24 10:14:12]
+2024-04-24 10:14:12,939 - INFO - MLP model finished. Elapsed time: 0:00:00.007749
+2024-04-24 10:14:12,946 - INFO - Starting MLP model...
+2024-04-24 10:21:17,470 - INFO - MLP model finished. Elapsed time: 0:07:04.523536
+2024-04-24 10:22:17,358 - INFO - #####################################
+2024-04-24 10:22:17,358 - INFO - Running dataset: [fuzzy]
+2024-04-24 10:22:17,358 - INFO - #####################################
+2024-04-24 10:22:43,865 - INFO - Starting SVC model...[2024-04-24 10:22:43]
+2024-04-24 10:22:43,873 - INFO - Starting SVC model...
+2024-04-24 11:21:22,754 - INFO - SVC model finished. Elapsed time: 0:58:38.881722
+2024-04-24 11:21:22,761 - INFO - SVC model finished. Elapsed time: 0:58:38.895152
+2024-04-24 11:21:22,937 - INFO - Starting MLP model...[2024-04-24 11:21:22]
+2024-04-24 11:21:22,939 - INFO - MLP model finished. Elapsed time: 0:00:00.002007
+2024-04-24 11:21:22,939 - INFO - Starting MLP model...
+2024-04-24 11:28:06,966 - INFO - MLP model finished. Elapsed time: 0:06:44.026891
+2024-04-24 11:28:07,157 - INFO - Starting SGD model...[2024-04-24 11:28:07]
+2024-04-24 11:28:07,157 - INFO - Starting SGD model...
+2024-04-24 11:29:34,603 - INFO - SGD model finished. Elapsed time: 0:01:27.444810
+2024-04-24 11:29:34,603 - INFO - SGD model finished. Elapsed time: 0:01:27.446888
+2024-04-24 11:29:34,800 - INFO - Starting Linear regression model...[2024-04-24 11:29:34]
+2024-04-24 11:29:34,801 - INFO - Starting Linear regression model...
+2024-04-24 11:29:36,349 - INFO - Linear regression model finished. Elapsed time: 0:00:01.547551
+2024-04-24 11:29:36,350 - INFO - Linear regression model finished. Elapsed time: 0:00:01.549597
+2024-04-24 11:29:36,548 - INFO - Starting CNN model...[2024-04-24 11:29:34]
+2024-04-24 11:29:36,555 - INFO - Starting CNN model...
+2024-04-24 16:22:21,646 - INFO - #####################################
+2024-04-24 16:22:21,646 - INFO - Running dataset: [fuzzy]
+2024-04-24 16:22:21,646 - INFO - #####################################
+2024-04-24 16:22:47,028 - INFO - Starting SVC model...[2024-04-24 16:22:47]
+2024-04-24 16:22:47,036 - INFO - Starting SVC model...
+2024-04-24 17:20:17,553 - INFO - SVC model finished. Elapsed time: 0:57:30.525369
+2024-04-24 17:20:17,553 - INFO - SVC model finished. Elapsed time: 0:57:30.528291
+2024-04-24 17:20:17,763 - INFO - Starting MLP model...[2024-04-24 17:20:17]
+2024-04-24 17:20:17,763 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-24 17:20:17,764 - INFO - Starting MLP model...
+2024-04-24 17:26:28,275 - INFO - MLP model finished. Elapsed time: 0:06:10.511357
+2024-04-24 17:26:28,490 - INFO - Starting SGD model...[2024-04-24 17:26:28]
+2024-04-24 17:26:28,497 - INFO - Starting SGD model...
+2024-04-24 17:27:58,743 - INFO - SGD model finished. Elapsed time: 0:01:30.249039
+2024-04-24 17:27:58,744 - INFO - SGD model finished. Elapsed time: 0:01:30.253032
+2024-04-24 17:27:58,944 - INFO - Starting Linear regression model...[2024-04-24 17:27:58]
+2024-04-24 17:27:58,946 - INFO - Starting Linear regression model...
+2024-04-24 17:28:00,566 - INFO - Linear regression model finished. Elapsed time: 0:00:01.620736
+2024-04-24 17:28:00,567 - INFO - Linear regression model finished. Elapsed time: 0:00:01.623735
+2024-04-24 17:28:00,774 - INFO - Starting CNN model...[2024-04-24 17:27:58]
+2024-04-24 17:28:00,780 - INFO - Starting CNN model...
+2024-04-24 17:54:25,850 - INFO - #####################################
+2024-04-24 17:54:25,850 - INFO - Running dataset: [fuzzy]
+2024-04-24 17:54:25,850 - INFO - #####################################
+2024-04-24 17:54:49,947 - INFO - Starting CNN model...[2024-04-24 17:27:58]
+2024-04-24 17:54:49,949 - INFO - Starting CNN model...
+2024-04-24 18:01:44,580 - INFO - #####################################
+2024-04-24 18:01:44,580 - INFO - Running dataset: [fuzzy]
+2024-04-24 18:01:44,580 - INFO - #####################################
+2024-04-24 18:02:07,263 - INFO - Starting CNN model...[2024-04-24 17:27:58]
+2024-04-24 18:02:07,263 - INFO - Starting CNN model...
+2024-04-24 18:41:21,473 - INFO - #####################################
+2024-04-24 18:41:21,474 - INFO - Running dataset: [fuzzy]
+2024-04-24 18:41:21,474 - INFO - #####################################
+2024-04-24 18:49:28,412 - INFO - #####################################
+2024-04-24 18:49:28,412 - INFO - Running dataset: [fuzzy]
+2024-04-24 18:49:28,412 - INFO - #####################################
+2024-04-24 18:49:55,088 - INFO - Starting CNN model...[2024-04-24 17:27:58]
+2024-04-24 18:49:55,090 - INFO - Starting CNN model...
+2024-04-24 18:51:23,392 - INFO - #####################################
+2024-04-24 18:51:23,392 - INFO - Running dataset: [fuzzy]
+2024-04-24 18:51:23,392 - INFO - #####################################
+2024-04-24 18:51:46,618 - INFO - Starting CNN model...[2024-04-24 17:27:58]
+2024-04-24 18:51:46,618 - INFO - Starting CNN model...
+2024-04-24 18:55:26,964 - INFO - #####################################
+2024-04-24 18:55:26,964 - INFO - Running dataset: [fuzzy]
+2024-04-24 18:55:26,964 - INFO - #####################################
+2024-04-24 18:58:14,838 - INFO - #####################################
+2024-04-24 18:58:14,838 - INFO - Running dataset: [fuzzy]
+2024-04-24 18:58:14,838 - INFO - #####################################
+2024-04-24 18:58:36,984 - INFO - Starting CNN model...[2024-04-24 18:58:36]
+2024-04-24 19:22:15,922 - INFO - CNN model finished. Elapsed time: 0:23:38.936537
+2024-04-24 19:22:15,928 - INFO - CNN model finished. Elapsed time: 0:23:38.949534
+2024-04-24 20:06:59,732 - INFO - #####################################
+2024-04-24 20:06:59,732 - INFO - Running dataset: [fuzzy]
+2024-04-24 20:06:59,732 - INFO - #####################################
+2024-04-24 20:07:24,724 - INFO - Starting SVC model...[2024-04-24 20:07:24]
+2024-04-24 20:07:24,724 - INFO - Starting SVC model...
+2024-04-24 23:11:43,202 - INFO - #####################################
+2024-04-24 23:11:43,202 - INFO - Running dataset: [fuzzy]
+2024-04-24 23:11:43,202 - INFO - #####################################
+2024-04-24 23:12:11,279 - INFO - Starting SVC model...[2024-04-24 23:12:11]
+2024-04-24 23:12:11,279 - INFO - Starting SVC model...
+2024-04-25 00:35:46,985 - INFO - #####################################
+2024-04-25 00:35:46,985 - INFO - Running dataset: [fuzzy]
+2024-04-25 00:35:46,985 - INFO - #####################################
+2024-04-25 00:36:06,525 - INFO - Starting MLP model...[2024-04-25 00:36:06]
+2024-04-25 00:36:06,525 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-25 00:36:06,526 - INFO - Starting MLP model...
+2024-04-25 00:41:55,066 - INFO - MLP model finished. Elapsed time: 0:05:48.539703
+2024-04-25 00:47:44,162 - INFO - #####################################
+2024-04-25 00:47:44,163 - INFO - Running dataset: [fuzzy]
+2024-04-25 00:47:44,163 - INFO - #####################################
+2024-04-25 00:48:06,974 - INFO - Starting SVC model...[2024-04-25 00:48:06]
+2024-04-25 00:48:06,974 - INFO - Starting SVC model...
+2024-04-25 07:08:38,404 - INFO - #####################################
+2024-04-25 07:08:38,404 - INFO - Running dataset: [fuzzy]
+2024-04-25 07:08:38,404 - INFO - #####################################
+2024-04-25 07:08:57,699 - INFO - Starting MLP model...[2024-04-25 07:08:57]
+2024-04-25 07:08:57,699 - INFO - MLP model finished. Elapsed time: 0:00:00.001017
+2024-04-25 07:08:57,699 - INFO - Starting MLP model...
+2024-04-25 07:14:06,777 - INFO - MLP model finished. Elapsed time: 0:05:09.078119
+2024-04-25 07:14:06,980 - INFO - Starting SGD model...[2024-04-25 07:14:06]
+2024-04-25 07:14:06,980 - INFO - Starting SGD model...
+2024-04-25 07:15:35,542 - INFO - SGD model finished. Elapsed time: 0:01:28.562497
+2024-04-25 07:15:35,542 - INFO - SGD model finished. Elapsed time: 0:01:28.562497
+2024-04-25 07:15:35,741 - INFO - Starting Linear regression model...[2024-04-25 07:15:35]
+2024-04-25 07:15:35,741 - INFO - Starting Linear regression model...
+2024-04-25 07:15:37,623 - INFO - Linear regression model finished. Elapsed time: 0:00:01.881258
+2024-04-25 07:15:37,623 - INFO - Linear regression model finished. Elapsed time: 0:00:01.881258
+2024-04-25 07:15:37,820 - INFO - Starting CNN model...[2024-04-25 07:15:37]
+2024-04-25 07:39:17,510 - INFO - CNN model finished. Elapsed time: 0:23:39.689710
+2024-04-25 07:39:17,512 - INFO - CNN model finished. Elapsed time: 0:23:39.691710
+2024-04-25 08:12:11,768 - INFO - #####################################
+2024-04-25 08:12:11,774 - INFO - Running dataset: [gear]
+2024-04-25 08:12:11,774 - INFO - #####################################
+2024-04-25 08:12:41,307 - INFO - Starting MLP model...[2024-04-25 08:12:41]
+2024-04-25 08:12:41,308 - INFO - MLP model finished. Elapsed time: 0:00:00.007893
+2024-04-25 08:12:41,308 - INFO - Starting MLP model...
+2024-04-25 08:27:50,616 - INFO - MLP model finished. Elapsed time: 0:15:09.308240
+2024-04-25 08:27:50,917 - INFO - Starting SGD model...[2024-04-25 08:27:50]
+2024-04-25 08:27:50,917 - INFO - Starting SGD model...
+2024-04-25 08:27:56,511 - INFO - SGD model finished. Elapsed time: 0:00:05.593531
+2024-04-25 08:27:56,511 - INFO - SGD model finished. Elapsed time: 0:00:05.593531
+2024-04-25 08:27:56,755 - INFO - Starting Linear regression model...[2024-04-25 08:27:56]
+2024-04-25 08:27:56,768 - INFO - Starting Linear regression model...
+2024-04-25 08:27:58,616 - INFO - Linear regression model finished. Elapsed time: 0:00:01.848354
+2024-04-25 08:27:58,624 - INFO - Linear regression model finished. Elapsed time: 0:00:01.868541
+2024-04-25 08:27:58,870 - INFO - Starting CNN model...[2024-04-25 08:27:58]
+2024-04-25 09:02:04,903 - INFO - CNN model finished. Elapsed time: 0:34:06.023256
+2024-04-25 09:02:04,905 - INFO - CNN model finished. Elapsed time: 0:34:06.033329
+2024-04-25 09:38:06,492 - INFO - #####################################
+2024-04-25 09:38:06,502 - INFO - Running dataset: [rpm]
+2024-04-25 09:38:06,502 - INFO - #####################################
+2024-04-25 09:38:35,779 - INFO - Starting MLP model...[2024-04-25 09:38:35]
+2024-04-25 09:38:35,779 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-25 09:38:35,782 - INFO - Starting MLP model...
+2024-04-25 09:47:56,501 - INFO - MLP model finished. Elapsed time: 0:09:20.719088
+2024-04-25 09:47:56,849 - INFO - Starting SGD model...[2024-04-25 09:47:56]
+2024-04-25 09:47:56,851 - INFO - Starting SGD model...
+2024-04-25 09:48:03,068 - INFO - SGD model finished. Elapsed time: 0:00:06.218215
+2024-04-25 09:48:03,068 - INFO - SGD model finished. Elapsed time: 0:00:06.219214
+2024-04-25 09:48:03,318 - INFO - Starting Linear regression model...[2024-04-25 09:48:03]
+2024-04-25 09:48:03,318 - INFO - Starting Linear regression model...
+2024-04-25 09:48:07,006 - INFO - Linear regression model finished. Elapsed time: 0:00:03.688054
+2024-04-25 09:48:07,009 - INFO - Linear regression model finished. Elapsed time: 0:00:03.690134
+2024-04-25 09:48:07,284 - INFO - Starting CNN model...[2024-04-25 09:48:07]
+2024-04-25 10:27:27,489 - INFO - CNN model finished. Elapsed time: 0:39:20.196570
+2024-04-25 10:27:27,493 - INFO - CNN model finished. Elapsed time: 0:39:20.208927
+2024-04-25 12:57:50,108 - INFO - #####################################
+2024-04-25 12:57:50,108 - INFO - Running dataset: [normal]
+2024-04-25 12:57:50,109 - INFO - #####################################
+2024-04-25 12:57:56,497 - INFO - Starting MLP model...[2024-04-25 12:57:56]
+2024-04-25 12:57:56,497 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-25 12:57:56,498 - INFO - Starting MLP model...
+2024-04-25 13:00:04,029 - INFO - MLP model finished. Elapsed time: 0:02:07.531166
+2024-04-25 13:00:04,073 - INFO - Starting SGD model...[2024-04-25 13:00:04]
+2024-04-25 13:00:04,073 - INFO - Starting SGD model...
+2024-04-25 13:00:04,177 - INFO - Starting Linear regression model...[2024-04-25 13:00:04]
+2024-04-25 13:00:04,178 - INFO - Starting Linear regression model...
+2024-04-25 13:00:04,770 - INFO - Linear regression model finished. Elapsed time: 0:00:00.591982
+2024-04-25 13:00:04,770 - INFO - Linear regression model finished. Elapsed time: 0:00:00.592982
+2024-04-25 13:18:33,387 - INFO - #####################################
+2024-04-25 13:18:33,387 - INFO - Running dataset: [normal]
+2024-04-25 13:18:33,387 - INFO - #####################################
+2024-04-25 13:18:40,534 - INFO - Starting SGD model...[2024-04-25 13:18:40]
+2024-04-25 13:18:40,534 - INFO - Starting SGD model...
+2024-04-25 13:18:40,631 - INFO - Starting Linear regression model...[2024-04-25 13:18:40]
+2024-04-25 13:18:40,631 - INFO - Starting Linear regression model...
+2024-04-25 13:18:41,129 - INFO - Linear regression model finished. Elapsed time: 0:00:00.496504
+2024-04-25 13:18:41,129 - INFO - Linear regression model finished. Elapsed time: 0:00:00.498517
+2024-04-25 13:20:05,543 - INFO - #####################################
+2024-04-25 13:20:05,543 - INFO - Running dataset: [normal]
+2024-04-25 13:20:05,543 - INFO - #####################################
+2024-04-25 13:20:11,145 - INFO - Starting SGD model...[2024-04-25 13:20:11]
+2024-04-25 13:20:11,145 - INFO - Starting SGD model...
+2024-04-25 13:20:11,243 - INFO - Starting Linear regression model...[2024-04-25 13:20:11]
+2024-04-25 13:20:11,243 - INFO - Starting Linear regression model...
+2024-04-25 13:20:11,697 - INFO - Linear regression model finished. Elapsed time: 0:00:00.453723
+2024-04-25 13:20:11,697 - INFO - Linear regression model finished. Elapsed time: 0:00:00.453723
+2024-04-25 13:20:51,816 - INFO - #####################################
+2024-04-25 13:20:51,816 - INFO - Running dataset: [normal]
+2024-04-25 13:20:51,816 - INFO - #####################################
+2024-04-25 13:20:57,640 - INFO - Starting SGD model...[2024-04-25 13:20:57]
+2024-04-25 13:20:57,640 - INFO - Starting SGD model...
+2024-04-25 13:20:57,736 - INFO - Starting Linear regression model...[2024-04-25 13:20:57]
+2024-04-25 13:20:57,736 - INFO - Starting Linear regression model...
+2024-04-25 13:20:58,202 - INFO - Linear regression model finished. Elapsed time: 0:00:00.466320
+2024-04-25 13:20:58,202 - INFO - Linear regression model finished. Elapsed time: 0:00:00.466320
+2024-04-25 13:22:27,651 - INFO - #####################################
+2024-04-25 13:22:27,651 - INFO - Running dataset: [normal]
+2024-04-25 13:22:27,651 - INFO - #####################################
+2024-04-25 13:22:33,529 - INFO - Starting SVC model...[2024-04-25 13:22:33]
+2024-04-25 13:22:33,530 - INFO - Starting SVC model...
+2024-04-25 13:25:02,747 - INFO - #####################################
+2024-04-25 13:25:02,748 - INFO - Running dataset: [normal]
+2024-04-25 13:25:02,748 - INFO - #####################################
+2024-04-25 13:25:08,374 - INFO - Starting SVC model...[2024-04-25 13:25:08]
+2024-04-25 13:25:08,374 - INFO - Starting SVC model...
+2024-04-25 13:25:56,569 - INFO - #####################################
+2024-04-25 13:25:56,570 - INFO - Running dataset: [normal]
+2024-04-25 13:25:56,570 - INFO - #####################################
+2024-04-25 13:26:02,208 - INFO - Starting SVC model...[2024-04-25 13:26:02]
+2024-04-25 13:26:02,208 - INFO - Starting SVC model...
+2024-04-25 13:26:49,322 - INFO - #####################################
+2024-04-25 13:26:49,322 - INFO - Running dataset: [normal]
+2024-04-25 13:26:49,322 - INFO - #####################################
+2024-04-25 13:26:55,344 - INFO - Starting MLP model...[2024-04-25 13:26:55]
+2024-04-25 13:26:55,344 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-25 13:26:55,344 - INFO - Starting MLP model...
+2024-04-25 13:28:40,661 - INFO - MLP model finished. Elapsed time: 0:01:45.316463
+2024-04-25 13:29:14,141 - INFO - #####################################
+2024-04-25 13:29:14,141 - INFO - Running dataset: [normal]
+2024-04-25 13:29:14,141 - INFO - #####################################
+2024-04-25 13:29:19,873 - INFO - Starting SVC model...[2024-04-25 13:29:19]
+2024-04-25 13:29:19,874 - INFO - Starting SVC model...
+2024-04-25 13:32:18,754 - INFO - #####################################
+2024-04-25 13:32:18,755 - INFO - Running dataset: [normal]
+2024-04-25 13:32:18,755 - INFO - #####################################
+2024-04-25 13:32:24,722 - INFO - Starting SVC model...[2024-04-25 13:32:24]
+2024-04-25 13:32:24,722 - INFO - Starting SVC model...
+2024-04-25 13:34:07,915 - INFO - #####################################
+2024-04-25 13:34:07,915 - INFO - Running dataset: [normal]
+2024-04-25 13:34:07,916 - INFO - #####################################
+2024-04-25 13:34:15,155 - INFO - Starting MLP model...[2024-04-25 13:34:15]
+2024-04-25 13:34:15,155 - INFO - MLP model finished. Elapsed time: 0:00:00.000993
+2024-04-25 13:34:15,157 - INFO - Starting MLP model...
+2024-04-25 13:35:42,393 - INFO - MLP model finished. Elapsed time: 0:01:27.235562
+2024-04-25 13:35:42,445 - INFO - Starting SGD model...[2024-04-25 13:35:42]
+2024-04-25 13:35:42,445 - INFO - Starting SGD model...
+2024-04-25 13:41:31,151 - INFO - #####################################
+2024-04-25 13:41:31,151 - INFO - Running dataset: [normal]
+2024-04-25 13:41:31,151 - INFO - #####################################
+2024-04-25 13:41:37,857 - INFO - Starting MLP model...[2024-04-25 13:41:37]
+2024-04-25 13:41:37,857 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-25 13:41:37,857 - INFO - Starting MLP model...
+2024-04-25 13:43:04,430 - INFO - MLP model finished. Elapsed time: 0:01:26.573467
+2024-04-25 13:43:04,471 - INFO - Starting SGD model...[2024-04-25 13:43:04]
+2024-04-25 13:43:04,471 - INFO - Starting SGD model...
+2024-04-25 13:44:30,181 - INFO - #####################################
+2024-04-25 13:44:30,181 - INFO - Running dataset: [normal]
+2024-04-25 13:44:30,184 - INFO - #####################################
+2024-04-25 13:44:36,303 - INFO - Starting MLP model...[2024-04-25 13:44:36]
+2024-04-25 13:44:36,303 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-25 13:44:36,304 - INFO - Starting MLP model...
+2024-04-25 13:46:40,893 - INFO - MLP model finished. Elapsed time: 0:02:04.590029
+2024-04-25 13:46:40,936 - INFO - Starting SGD model...[2024-04-25 13:46:40]
+2024-04-25 13:46:40,936 - INFO - Starting SGD model...
+2024-04-25 13:57:53,111 - INFO - #####################################
+2024-04-25 13:57:53,111 - INFO - Running dataset: [normal]
+2024-04-25 13:57:53,111 - INFO - #####################################
+2024-04-25 13:57:59,122 - INFO - Starting SGD model...[2024-04-25 13:57:59]
+2024-04-25 13:57:59,122 - INFO - Starting SGD model...
+2024-04-25 13:58:37,904 - INFO - #####################################
+2024-04-25 13:58:37,905 - INFO - Running dataset: [fuzzy]
+2024-04-25 13:58:37,905 - INFO - #####################################
+2024-04-25 13:59:03,559 - INFO - Starting SGD model...[2024-04-25 13:59:03]
+2024-04-25 13:59:03,562 - INFO - Starting SGD model...
+2024-04-25 14:01:05,415 - INFO - SGD model finished. Elapsed time: 0:02:01.852862
+2024-04-25 14:01:05,416 - INFO - SGD model finished. Elapsed time: 0:02:01.857878
+2024-04-25 16:50:28,716 - INFO - #####################################
+2024-04-25 16:50:28,718 - INFO - Running dataset: [fuzzy]
+2024-04-25 16:50:28,718 - INFO - #####################################
+2024-04-25 16:50:51,325 - INFO - Starting MLP model...[2024-04-25 16:50:51]
+2024-04-25 16:50:51,325 - INFO - MLP model finished. Elapsed time: 0:00:00
+2024-04-25 16:50:51,325 - INFO - Starting MLP model...
+2024-04-25 16:56:52,469 - INFO - MLP model finished. Elapsed time: 0:06:01.144457
+2024-04-25 16:56:52,675 - INFO - Starting SGD model...[2024-04-25 16:56:52]
+2024-04-25 16:56:52,675 - INFO - Starting SGD model...
+2024-04-25 16:58:30,276 - INFO - SGD model finished. Elapsed time: 0:01:37.600941
+2024-04-25 16:58:30,277 - INFO - SGD model finished. Elapsed time: 0:01:37.601939
+2024-04-25 16:58:30,476 - INFO - Starting Linear regression model...[2024-04-25 16:58:30]
+2024-04-25 16:58:30,484 - INFO - Starting Linear regression model...
+2024-04-25 16:58:32,270 - INFO - Linear regression model finished. Elapsed time: 0:00:01.786556
+2024-04-25 16:58:32,271 - INFO - Linear regression model finished. Elapsed time: 0:00:01.794886
+2024-04-25 16:58:32,475 - INFO - Starting CNN model...[2024-04-25 16:58:32]
+2024-04-25 17:23:40,437 - INFO - CNN model finished. Elapsed time: 0:25:07.958129
+2024-04-25 17:23:40,437 - INFO - CNN model finished. Elapsed time: 0:25:07.962475
+2024-04-25 18:24:21,181 - INFO - #####################################
+2024-04-25 18:24:21,181 - INFO - Running dataset: [gear]
+2024-04-25 18:24:21,181 - INFO - #####################################
+2024-04-25 18:24:50,797 - INFO - Starting MLP model...[2024-04-25 18:24:50]
+2024-04-25 18:24:50,797 - INFO - MLP model finished. Elapsed time: 0:00:00.002605
+2024-04-25 18:24:50,805 - INFO - Starting MLP model...
+2024-04-25 18:36:42,865 - INFO - MLP model finished. Elapsed time: 0:11:52.060248
+2024-04-25 18:36:43,116 - INFO - Starting SGD model...[2024-04-25 18:36:43]
+2024-04-25 18:36:43,116 - INFO - Starting SGD model...
+2024-04-25 18:36:48,172 - INFO - SGD model finished. Elapsed time: 0:00:05.056007
+2024-04-25 18:36:48,180 - INFO - SGD model finished. Elapsed time: 0:00:05.063593
+2024-04-25 18:36:48,422 - INFO - Starting Linear regression model...[2024-04-25 18:36:48]
+2024-04-25 18:36:48,429 - INFO - Starting Linear regression model...
+2024-04-25 18:36:50,394 - INFO - Linear regression model finished. Elapsed time: 0:00:01.967744
+2024-04-25 18:36:50,394 - INFO - Linear regression model finished. Elapsed time: 0:00:01.971776
+2024-04-25 18:36:50,639 - INFO - Starting CNN model...[2024-04-25 18:36:50]
+2024-04-25 19:06:40,490 - INFO - CNN model finished. Elapsed time: 0:29:49.849085
+2024-04-25 19:06:40,492 - INFO - CNN model finished. Elapsed time: 0:29:49.853380
+2024-04-25 19:49:42,020 - INFO - #####################################
+2024-04-25 19:49:42,022 - INFO - Running dataset: [dos]
+2024-04-25 19:49:42,023 - INFO - #####################################
+2024-04-25 19:54:58,623 - INFO - #####################################
+2024-04-25 19:54:58,623 - INFO - Running dataset: [dos]
+2024-04-25 19:54:58,623 - INFO - #####################################
+2024-04-25 19:55:19,855 - INFO - Starting MLP model...[2024-04-25 19:55:19]
+2024-04-25 19:55:19,856 - INFO - MLP model finished. Elapsed time: 0:00:00.001499
+2024-04-25 19:55:19,856 - INFO - Starting MLP model...
+2024-04-25 20:01:40,002 - INFO - MLP model finished. Elapsed time: 0:06:20.144751
+2024-04-25 20:01:40,354 - INFO - Starting SGD model...[2024-04-25 20:01:40]
+2024-04-25 20:01:40,356 - INFO - Starting SGD model...
+2024-04-25 20:01:44,324 - INFO - SGD model finished. Elapsed time: 0:00:03.969032
+2024-04-25 20:01:44,325 - INFO - SGD model finished. Elapsed time: 0:00:03.972030
+2024-04-25 20:01:44,522 - INFO - Starting Linear regression model...[2024-04-25 20:01:44]
+2024-04-25 20:01:44,523 - INFO - Starting Linear regression model...
+2024-04-25 20:01:46,471 - INFO - Linear regression model finished. Elapsed time: 0:00:01.946722
+2024-04-25 20:01:46,472 - INFO - Linear regression model finished. Elapsed time: 0:00:01.949724
+2024-04-25 20:01:46,711 - INFO - Starting CNN model...[2024-04-25 20:01:46]
+2024-04-25 20:25:56,136 - INFO - CNN model finished. Elapsed time: 0:24:09.424364
+2024-04-25 20:25:56,137 - INFO - CNN model finished. Elapsed time: 0:24:09.426329
+2024-04-25 21:28:31,751 - INFO - #####################################
+2024-04-25 21:28:31,752 - INFO - Running dataset: [rpm]
+2024-04-25 21:28:31,758 - INFO - #####################################
+2024-04-25 21:29:10,429 - INFO - Starting MLP model...[2024-04-25 21:29:10]
+2024-04-25 21:29:10,437 - INFO - MLP model finished. Elapsed time: 0:00:00.008366
+2024-04-25 21:29:10,437 - INFO - Starting MLP model...
+2024-04-25 21:38:20,712 - INFO - MLP model finished. Elapsed time: 0:09:10.274965
+2024-04-25 21:38:20,984 - INFO - Starting SGD model...[2024-04-25 21:38:20]
+2024-04-25 21:38:20,984 - INFO - Starting SGD model...
+2024-04-25 21:38:26,170 - INFO - SGD model finished. Elapsed time: 0:00:05.186157
+2024-04-25 21:38:26,170 - INFO - SGD model finished. Elapsed time: 0:00:05.186157
+2024-04-25 21:38:26,450 - INFO - Starting Linear regression model...[2024-04-25 21:38:26]
+2024-04-25 21:38:26,450 - INFO - Starting Linear regression model...
+2024-04-25 21:38:28,496 - INFO - Linear regression model finished. Elapsed time: 0:00:02.046285
+2024-04-25 21:38:28,498 - INFO - Linear regression model finished. Elapsed time: 0:00:02.047756
+2024-04-25 21:38:28,738 - INFO - Starting CNN model...[2024-04-25 21:38:28]
+2024-04-25 22:10:02,274 - INFO - CNN model finished. Elapsed time: 0:31:33.530548
+2024-04-25 22:10:02,274 - INFO - CNN model finished. Elapsed time: 0:31:33.536043
+2024-04-28 23:34:31,431 - INFO - #####################################
+2024-04-28 23:34:31,431 - INFO - Running dataset: [dos]
+2024-04-28 23:34:31,432 - INFO - #####################################
+2024-04-28 23:34:56,886 - INFO - Starting SGD model...[2024-04-28 23:34:56]
+2024-04-28 23:34:56,897 - INFO - Starting SGD model...
+2024-04-28 23:35:00,770 - INFO - SGD model finished. Elapsed time: 0:00:03.872735
+2024-04-28 23:35:00,772 - INFO - SGD model finished. Elapsed time: 0:00:03.888756
+2024-04-28 23:40:19,355 - INFO - #####################################
+2024-04-28 23:40:19,356 - INFO - Running dataset: [fuzzy]
+2024-04-28 23:40:19,356 - INFO - #####################################
+2024-04-28 23:40:45,941 - INFO - Starting SGD model...[2024-04-28 23:40:45]
+2024-04-28 23:40:45,945 - INFO - Starting SGD model...
+2024-04-28 23:42:42,668 - INFO - SGD model finished. Elapsed time: 0:01:56.723594
+2024-04-28 23:42:42,669 - INFO - SGD model finished. Elapsed time: 0:01:56.729595
+2024-04-29 00:13:33,783 - INFO - #####################################
+2024-04-29 00:13:33,785 - INFO - Running dataset: [fuzzy]
+2024-04-29 00:13:33,786 - INFO - #####################################
+2024-04-29 00:14:00,088 - INFO - Starting SGD model...[2024-04-29 00:14:00]
+2024-04-29 00:14:00,105 - INFO - Starting SGD model...
+2024-04-29 00:15:51,769 - INFO - SGD model finished. Elapsed time: 0:01:51.664658
+2024-04-29 00:15:51,770 - INFO - SGD model finished. Elapsed time: 0:01:51.686887
+2024-04-29 00:15:52,166 - INFO - Starting Linear regression model...[2024-04-29 00:15:52]
+2024-04-29 00:15:52,167 - INFO - Starting Linear regression model...
+2024-04-29 00:15:54,046 - INFO - Linear regression model finished. Elapsed time: 0:00:01.877612
+2024-04-29 00:15:54,047 - INFO - Linear regression model finished. Elapsed time: 0:00:01.881205
+2024-04-29 00:15:54,383 - INFO - Starting CNN model...[2024-04-29 00:15:54]
+2024-04-29 00:41:22,488 - INFO - CNN model finished. Elapsed time: 0:25:28.103928
+2024-04-29 00:41:22,494 - INFO - CNN model finished. Elapsed time: 0:25:28.110583
+2024-04-29 16:51:24,591 - INFO - #####################################
+2024-04-29 16:51:24,600 - INFO - Running dataset: [fuzzy]
+2024-04-29 16:51:24,600 - INFO - #####################################
+2024-04-29 16:51:48,710 - INFO - Starting SGD model...[2024-04-29 16:51:48]
+2024-04-29 16:51:48,710 - INFO - Starting SGD model...
+2024-04-29 16:53:34,152 - INFO - SGD model finished. Elapsed time: 0:01:45.441526
+2024-04-29 16:53:34,152 - INFO - SGD model finished. Elapsed time: 0:01:45.449557
+2024-04-29 16:57:33,712 - INFO - #####################################
+2024-04-29 16:57:33,712 - INFO - Running dataset: [fuzzy]
+2024-04-29 16:57:33,712 - INFO - #####################################
+2024-04-29 16:57:56,223 - INFO - Starting SGD model...[2024-04-29 16:57:56]
+2024-04-29 16:57:56,223 - INFO - Starting SGD model...
+2024-04-29 16:59:46,642 - INFO - SGD model finished. Elapsed time: 0:01:50.414755
+2024-04-29 16:59:46,642 - INFO - SGD model finished. Elapsed time: 0:01:50.422784
+2024-05-01 20:45:42,189 - INFO - #####################################
+2024-05-01 20:45:42,190 - INFO - Running dataset: [fuzzy]
+2024-05-01 20:45:42,190 - INFO - #####################################
+2024-05-01 20:45:42,254 - INFO - Starting SGD model...[2024-05-01 20:45:42]
+2024-05-01 20:45:42,255 - INFO - Starting SGD model...
+2024-05-01 20:45:42,266 - INFO - SGD model finished. Elapsed time: 0:00:00.010487
+2024-05-01 20:45:42,267 - INFO - SGD model finished. Elapsed time: 0:00:00.013212
+2024-05-01 21:23:07,361 - INFO - #####################################
+2024-05-01 21:23:07,361 - INFO - Running dataset: [fuzzy]
+2024-05-01 21:23:07,361 - INFO - #####################################
+2024-05-01 21:23:07,413 - INFO - Starting SGD model...[2024-05-01 21:23:07]
+2024-05-01 21:23:07,414 - INFO - Starting SGD model...
+2024-05-01 21:23:07,416 - INFO - SGD model finished. Elapsed time: 0:00:00.002487
+2024-05-01 21:23:07,416 - INFO - SGD model finished. Elapsed time: 0:00:00.003080
+2024-05-01 21:26:57,578 - INFO - #####################################
+2024-05-01 21:26:57,579 - INFO - Running dataset: [fuzzy]
+2024-05-01 21:26:57,579 - INFO - #####################################
+2024-05-01 21:26:57,629 - INFO - Starting SGD model...[2024-05-01 21:26:57]
+2024-05-01 21:26:57,629 - INFO - Starting SGD model...
+2024-05-01 21:26:57,629 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 21:26:57,629 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 21:27:34,140 - INFO - #####################################
+2024-05-01 21:27:34,145 - INFO - Running dataset: [fuzzy]
+2024-05-01 21:27:34,145 - INFO - #####################################
+2024-05-01 21:27:34,190 - INFO - Starting SGD model...[2024-05-01 21:27:34]
+2024-05-01 21:27:34,191 - INFO - Starting SGD model...
+2024-05-01 21:27:34,195 - INFO - SGD model finished. Elapsed time: 0:00:00.004046
+2024-05-01 21:27:34,195 - INFO - SGD model finished. Elapsed time: 0:00:00.005912
+2024-05-01 21:27:34,372 - INFO - Starting Linear regression model...[2024-05-01 21:27:34]
+2024-05-01 21:27:34,372 - INFO - Starting Linear regression model...
+2024-05-01 21:27:34,399 - INFO - Linear regression model finished. Elapsed time: 0:00:00.026400
+2024-05-01 21:27:34,400 - INFO - Linear regression model finished. Elapsed time: 0:00:00.027394
+2024-05-01 21:29:48,100 - INFO - #####################################
+2024-05-01 21:29:48,100 - INFO - Running dataset: [fuzzy]
+2024-05-01 21:29:48,100 - INFO - #####################################
+2024-05-01 21:30:17,496 - INFO - Starting SGD model...[2024-05-01 21:30:17]
+2024-05-01 21:30:17,520 - INFO - Starting SGD model...
+2024-05-01 21:32:33,411 - INFO - SGD model finished. Elapsed time: 0:02:15.890808
+2024-05-01 21:32:33,411 - INFO - SGD model finished. Elapsed time: 0:02:15.922537
+2024-05-01 21:32:35,706 - INFO - Starting Linear regression model...[2024-05-01 21:32:35]
+2024-05-01 21:32:35,706 - INFO - Starting Linear regression model...
+2024-05-01 21:32:37,869 - INFO - Linear regression model finished. Elapsed time: 0:00:02.163116
+2024-05-01 21:32:37,871 - INFO - Linear regression model finished. Elapsed time: 0:00:02.165116
+2024-05-01 21:51:11,415 - INFO - #####################################
+2024-05-01 21:51:11,415 - INFO - Running dataset: [fuzzy]
+2024-05-01 21:51:11,415 - INFO - #####################################
+2024-05-01 21:51:37,644 - INFO - Starting SGD model...[2024-05-01 21:51:37]
+2024-05-01 21:51:37,655 - INFO - Starting SGD model...
+2024-05-01 21:54:02,676 - INFO - SGD model finished. Elapsed time: 0:02:25.020788
+2024-05-01 21:54:02,677 - INFO - SGD model finished. Elapsed time: 0:02:25.034979
+2024-05-01 21:54:04,107 - INFO - Starting Linear regression model...[2024-05-01 21:54:04]
+2024-05-01 21:54:04,107 - INFO - Starting Linear regression model...
+2024-05-01 21:54:06,817 - INFO - Linear regression model finished. Elapsed time: 0:00:02.710252
+2024-05-01 21:54:06,818 - INFO - Linear regression model finished. Elapsed time: 0:00:02.711251
+2024-05-01 22:03:51,599 - INFO - #####################################
+2024-05-01 22:03:51,599 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:03:51,599 - INFO - #####################################
+2024-05-01 22:04:16,652 - INFO - Starting SGD model...[2024-05-01 22:04:16]
+2024-05-01 22:04:16,657 - INFO - Starting SGD model...
+2024-05-01 22:06:13,046 - INFO - SGD model finished. Elapsed time: 0:01:56.389191
+2024-05-01 22:06:13,047 - INFO - SGD model finished. Elapsed time: 0:01:56.396453
+2024-05-01 22:11:59,377 - INFO - #####################################
+2024-05-01 22:11:59,377 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:11:59,377 - INFO - #####################################
+2024-05-01 22:11:59,466 - INFO - Starting SGD model...[2024-05-01 22:11:59]
+2024-05-01 22:11:59,467 - INFO - Starting SGD model...
+2024-05-01 22:11:59,471 - INFO - SGD model finished. Elapsed time: 0:00:00.003999
+2024-05-01 22:11:59,471 - INFO - SGD model finished. Elapsed time: 0:00:00.005000
+2024-05-01 22:17:22,543 - INFO - #####################################
+2024-05-01 22:17:22,543 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:17:22,543 - INFO - #####################################
+2024-05-01 22:19:45,599 - INFO - #####################################
+2024-05-01 22:19:45,599 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:19:45,599 - INFO - #####################################
+2024-05-01 22:21:17,977 - INFO - #####################################
+2024-05-01 22:21:17,977 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:21:17,977 - INFO - #####################################
+2024-05-01 22:21:54,654 - INFO - #####################################
+2024-05-01 22:21:54,654 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:21:54,654 - INFO - #####################################
+2024-05-01 22:22:56,715 - INFO - #####################################
+2024-05-01 22:22:56,715 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:22:56,715 - INFO - #####################################
+2024-05-01 22:23:45,872 - INFO - #####################################
+2024-05-01 22:23:45,872 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:23:45,872 - INFO - #####################################
+2024-05-01 22:23:45,899 - INFO - Starting SGD model...[2024-05-01 22:23:45]
+2024-05-01 22:23:45,899 - INFO - Starting SGD model...
+2024-05-01 22:23:45,899 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 22:23:45,899 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 22:25:20,173 - INFO - #####################################
+2024-05-01 22:25:20,173 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:25:20,173 - INFO - #####################################
+2024-05-01 22:25:20,208 - INFO - Starting SGD model...[2024-05-01 22:25:20]
+2024-05-01 22:25:20,209 - INFO - Starting SGD model...
+2024-05-01 22:25:20,212 - INFO - SGD model finished. Elapsed time: 0:00:00.002611
+2024-05-01 22:25:20,212 - INFO - SGD model finished. Elapsed time: 0:00:00.003617
+2024-05-01 22:26:14,689 - INFO - #####################################
+2024-05-01 22:26:14,689 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:26:14,689 - INFO - #####################################
+2024-05-01 22:26:14,725 - INFO - Starting SGD model...[2024-05-01 22:26:14]
+2024-05-01 22:26:14,726 - INFO - Starting SGD model...
+2024-05-01 22:26:14,727 - INFO - SGD model finished. Elapsed time: 0:00:00.001020
+2024-05-01 22:26:14,729 - INFO - SGD model finished. Elapsed time: 0:00:00.003325
+2024-05-01 22:27:08,267 - INFO - #####################################
+2024-05-01 22:27:08,267 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:27:08,267 - INFO - #####################################
+2024-05-01 22:27:08,288 - INFO - Starting SGD model...[2024-05-01 22:27:08]
+2024-05-01 22:27:08,288 - INFO - Starting SGD model...
+2024-05-01 22:27:08,291 - INFO - SGD model finished. Elapsed time: 0:00:00.002576
+2024-05-01 22:27:08,291 - INFO - SGD model finished. Elapsed time: 0:00:00.002576
+2024-05-01 22:28:11,106 - INFO - #####################################
+2024-05-01 22:28:11,107 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:28:11,107 - INFO - #####################################
+2024-05-01 22:28:11,136 - INFO - Starting SGD model...[2024-05-01 22:28:11]
+2024-05-01 22:28:11,137 - INFO - Starting SGD model...
+2024-05-01 22:28:11,139 - INFO - SGD model finished. Elapsed time: 0:00:00.002000
+2024-05-01 22:28:11,140 - INFO - SGD model finished. Elapsed time: 0:00:00.004100
+2024-05-01 22:30:30,545 - INFO - #####################################
+2024-05-01 22:30:30,545 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:30:30,545 - INFO - #####################################
+2024-05-01 22:30:30,566 - INFO - Starting SGD model...[2024-05-01 22:30:30]
+2024-05-01 22:30:30,566 - INFO - Starting SGD model...
+2024-05-01 22:30:30,566 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 22:30:30,566 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 22:33:54,939 - INFO - #####################################
+2024-05-01 22:33:54,939 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:33:54,939 - INFO - #####################################
+2024-05-01 22:33:54,962 - INFO - Starting SGD model...[2024-05-01 22:33:54]
+2024-05-01 22:33:54,962 - INFO - Starting SGD model...
+2024-05-01 22:33:54,962 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 22:33:54,962 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 22:35:11,267 - INFO - #####################################
+2024-05-01 22:35:11,267 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:35:11,267 - INFO - #####################################
+2024-05-01 22:35:11,300 - INFO - Starting SGD model...[2024-05-01 22:35:11]
+2024-05-01 22:35:11,300 - INFO - Starting SGD model...
+2024-05-01 22:35:11,302 - INFO - SGD model finished. Elapsed time: 0:00:00.002000
+2024-05-01 22:35:11,302 - INFO - SGD model finished. Elapsed time: 0:00:00.002000
+2024-05-01 22:35:35,556 - INFO - #####################################
+2024-05-01 22:35:35,556 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:35:35,556 - INFO - #####################################
+2024-05-01 22:35:35,578 - INFO - Starting SGD model...[2024-05-01 22:35:35]
+2024-05-01 22:35:35,579 - INFO - Starting SGD model...
+2024-05-01 22:35:35,581 - INFO - SGD model finished. Elapsed time: 0:00:00.002000
+2024-05-01 22:35:35,581 - INFO - SGD model finished. Elapsed time: 0:00:00.003000
+2024-05-01 22:36:19,734 - INFO - #####################################
+2024-05-01 22:36:19,734 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:36:19,734 - INFO - #####################################
+2024-05-01 22:36:19,760 - INFO - Starting SGD model...[2024-05-01 22:36:19]
+2024-05-01 22:36:19,760 - INFO - Starting SGD model...
+2024-05-01 22:36:19,760 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 22:36:19,760 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-01 22:38:48,268 - INFO - #####################################
+2024-05-01 22:38:48,268 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:38:48,268 - INFO - #####################################
+2024-05-01 22:38:48,292 - INFO - Starting SGD model...[2024-05-01 22:38:48]
+2024-05-01 22:38:48,292 - INFO - Starting SGD model...
+2024-05-01 22:38:48,294 - INFO - SGD model finished. Elapsed time: 0:00:00.002025
+2024-05-01 22:38:48,294 - INFO - SGD model finished. Elapsed time: 0:00:00.002025
+2024-05-01 22:38:52,777 - INFO - #####################################
+2024-05-01 22:38:52,777 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:38:52,777 - INFO - #####################################
+2024-05-01 22:38:52,812 - INFO - Starting SGD model...[2024-05-01 22:38:52]
+2024-05-01 22:38:52,814 - INFO - Starting SGD model...
+2024-05-01 22:38:52,816 - INFO - SGD model finished. Elapsed time: 0:00:00.001996
+2024-05-01 22:38:52,821 - INFO - SGD model finished. Elapsed time: 0:00:00.009839
+2024-05-01 22:41:01,697 - INFO - #####################################
+2024-05-01 22:41:01,697 - INFO - Running dataset: [dos]
+2024-05-01 22:41:01,697 - INFO - #####################################
+2024-05-01 22:41:21,391 - INFO - Starting SGD model...[2024-05-01 22:41:21]
+2024-05-01 22:41:21,395 - INFO - Starting SGD model...
+2024-05-01 22:41:24,834 - INFO - SGD model finished. Elapsed time: 0:00:03.438991
+2024-05-01 22:41:24,834 - INFO - SGD model finished. Elapsed time: 0:00:03.443016
+2024-05-01 22:41:39,002 - INFO - #####################################
+2024-05-01 22:41:39,002 - INFO - Running dataset: [dos]
+2024-05-01 22:41:39,003 - INFO - #####################################
+2024-05-01 22:41:59,818 - INFO - Starting SGD model...[2024-05-01 22:41:59]
+2024-05-01 22:41:59,822 - INFO - Starting SGD model...
+2024-05-01 22:42:03,358 - INFO - SGD model finished. Elapsed time: 0:00:03.536103
+2024-05-01 22:42:03,358 - INFO - SGD model finished. Elapsed time: 0:00:03.541095
+2024-05-01 22:47:06,440 - INFO - #####################################
+2024-05-01 22:47:06,442 - INFO - Running dataset: [dos]
+2024-05-01 22:47:06,442 - INFO - #####################################
+2024-05-01 22:47:25,862 - INFO - Starting SGD model...[2024-05-01 22:47:25]
+2024-05-01 22:47:25,864 - INFO - Starting SGD model...
+2024-05-01 22:47:28,889 - INFO - SGD model finished. Elapsed time: 0:00:03.023397
+2024-05-01 22:47:28,889 - INFO - SGD model finished. Elapsed time: 0:00:03.026973
+2024-05-01 22:51:06,290 - INFO - #####################################
+2024-05-01 22:51:06,291 - INFO - Running dataset: [dos]
+2024-05-01 22:51:06,291 - INFO - #####################################
+2024-05-01 22:51:28,056 - INFO - Starting SGD model...[2024-05-01 22:51:28]
+2024-05-01 22:51:28,061 - INFO - Starting SGD model...
+2024-05-01 22:51:31,438 - INFO - SGD model finished. Elapsed time: 0:00:03.377241
+2024-05-01 22:51:31,438 - INFO - SGD model finished. Elapsed time: 0:00:03.381240
+2024-05-01 22:53:36,416 - INFO - #####################################
+2024-05-01 22:53:36,416 - INFO - Running dataset: [dos]
+2024-05-01 22:53:36,416 - INFO - #####################################
+2024-05-01 22:53:56,669 - INFO - Starting SGD model...[2024-05-01 22:53:56]
+2024-05-01 22:53:56,669 - INFO - Starting SGD model...
+2024-05-01 22:53:59,853 - INFO - SGD model finished. Elapsed time: 0:00:03.184306
+2024-05-01 22:53:59,853 - INFO - SGD model finished. Elapsed time: 0:00:03.184306
+2024-05-01 22:57:17,889 - INFO - #####################################
+2024-05-01 22:57:17,890 - INFO - Running dataset: [dos]
+2024-05-01 22:57:17,890 - INFO - #####################################
+2024-05-01 22:57:39,213 - INFO - Starting SGD model...[2024-05-01 22:57:39]
+2024-05-01 22:57:39,215 - INFO - Starting SGD model...
+2024-05-01 22:57:42,677 - INFO - SGD model finished. Elapsed time: 0:00:03.461431
+2024-05-01 22:57:42,677 - INFO - SGD model finished. Elapsed time: 0:00:03.463431
+2024-05-01 22:58:54,459 - INFO - #####################################
+2024-05-01 22:58:54,459 - INFO - Running dataset: [fuzzy]
+2024-05-01 22:58:54,459 - INFO - #####################################
+2024-05-01 22:58:54,676 - INFO - Starting SGD model...[2024-05-01 22:58:54]
+2024-05-01 22:58:54,677 - INFO - Starting SGD model...
+2024-05-01 22:58:54,733 - INFO - SGD model finished. Elapsed time: 0:00:00.055623
+2024-05-01 22:58:54,733 - INFO - SGD model finished. Elapsed time: 0:00:00.056623
+2024-05-01 23:08:41,455 - INFO - #####################################
+2024-05-01 23:08:41,455 - INFO - Running dataset: [fuzzy]
+2024-05-01 23:08:41,455 - INFO - #####################################
+2024-05-01 23:08:41,592 - INFO - Starting SGD model...[2024-05-01 23:08:41]
+2024-05-01 23:08:41,594 - INFO - Starting SGD model...
+2024-05-01 23:08:41,635 - INFO - SGD model finished. Elapsed time: 0:00:00.040659
+2024-05-01 23:08:41,635 - INFO - SGD model finished. Elapsed time: 0:00:00.042674
+2024-05-01 23:12:59,716 - INFO - #####################################
+2024-05-01 23:12:59,716 - INFO - Running dataset: [fuzzy]
+2024-05-01 23:12:59,716 - INFO - #####################################
+2024-05-01 23:12:59,866 - INFO - Starting SGD model...[2024-05-01 23:12:59]
+2024-05-01 23:12:59,867 - INFO - Starting SGD model...
+2024-05-01 23:12:59,896 - INFO - SGD model finished. Elapsed time: 0:00:00.029352
+2024-05-01 23:12:59,896 - INFO - SGD model finished. Elapsed time: 0:00:00.030353
+2024-05-01 23:17:47,192 - INFO - #####################################
+2024-05-01 23:17:47,193 - INFO - Running dataset: [fuzzy]
+2024-05-01 23:17:47,193 - INFO - #####################################
+2024-05-01 23:17:47,300 - INFO - Starting SGD model...[2024-05-01 23:17:47]
+2024-05-01 23:17:47,301 - INFO - Starting SGD model...
+2024-05-01 23:17:47,335 - INFO - SGD model finished. Elapsed time: 0:00:00.033297
+2024-05-01 23:17:47,335 - INFO - SGD model finished. Elapsed time: 0:00:00.034297
+2024-05-01 23:19:13,659 - INFO - #####################################
+2024-05-01 23:19:13,659 - INFO - Running dataset: [fuzzy]
+2024-05-01 23:19:13,659 - INFO - #####################################
+2024-05-01 23:19:13,753 - INFO - Starting SGD model...[2024-05-01 23:19:13]
+2024-05-01 23:19:13,754 - INFO - Starting SGD model...
+2024-05-01 23:19:13,789 - INFO - SGD model finished. Elapsed time: 0:00:00.034412
+2024-05-01 23:19:13,789 - INFO - SGD model finished. Elapsed time: 0:00:00.035407
+2024-05-01 23:19:53,568 - INFO - #####################################
+2024-05-01 23:19:53,569 - INFO - Running dataset: [fuzzy]
+2024-05-01 23:19:53,569 - INFO - #####################################
+2024-05-01 23:20:14,193 - INFO - Starting SGD model...[2024-05-01 23:20:14]
+2024-05-01 23:20:14,194 - INFO - Starting SGD model...
+2024-05-01 23:21:48,900 - INFO - SGD model finished. Elapsed time: 0:01:34.705273
+2024-05-01 23:21:48,900 - INFO - SGD model finished. Elapsed time: 0:01:34.706244
+2024-05-01 23:42:56,320 - INFO - #####################################
+2024-05-01 23:42:56,321 - INFO - Running dataset: [fuzzy]
+2024-05-01 23:42:56,321 - INFO - #####################################
+2024-05-01 23:43:19,165 - INFO - Starting SGD model...[2024-05-01 23:43:19]
+2024-05-01 23:43:19,166 - INFO - Starting SGD model...
+2024-05-01 23:44:58,186 - INFO - SGD model finished. Elapsed time: 0:01:39.019591
+2024-05-01 23:44:58,187 - INFO - SGD model finished. Elapsed time: 0:01:39.021591
+2024-05-01 23:49:54,633 - INFO - #####################################
+2024-05-01 23:49:54,634 - INFO - Running dataset: [fuzzy]
+2024-05-01 23:49:54,634 - INFO - #####################################
+2024-05-01 23:50:14,529 - INFO - Starting SGD model...[2024-05-01 23:50:14]
+2024-05-01 23:50:14,530 - INFO - Starting SGD model...
+2024-05-01 23:51:53,070 - INFO - SGD model finished. Elapsed time: 0:01:38.539695
+2024-05-01 23:51:53,071 - INFO - SGD model finished. Elapsed time: 0:01:38.540713
+2024-05-05 16:24:31,532 - INFO - #####################################
+2024-05-05 16:24:31,535 - INFO - Running dataset: [dos]
+2024-05-05 16:24:31,535 - INFO - #####################################
+2024-05-05 16:25:11,347 - INFO - #####################################
+2024-05-05 16:25:11,347 - INFO - Running dataset: [dos]
+2024-05-05 16:25:11,347 - INFO - #####################################
+2024-05-05 16:25:29,554 - INFO - #####################################
+2024-05-05 16:25:29,554 - INFO - Running dataset: [dos]
+2024-05-05 16:25:29,554 - INFO - #####################################
+2024-05-05 16:25:47,721 - INFO - #####################################
+2024-05-05 16:25:47,721 - INFO - Running dataset: [dos]
+2024-05-05 16:25:47,721 - INFO - #####################################
+2024-05-05 16:27:21,952 - INFO - #####################################
+2024-05-05 16:27:21,952 - INFO - Running dataset: [dos]
+2024-05-05 16:27:21,952 - INFO - #####################################
+2024-05-05 16:31:54,770 - INFO - #####################################
+2024-05-05 16:31:54,770 - INFO - Running dataset: [dos]
+2024-05-05 16:31:54,770 - INFO - #####################################
+2024-05-05 17:48:18,833 - INFO - #####################################
+2024-05-05 17:48:18,833 - INFO - Running dataset: [dos]
+2024-05-05 17:48:18,834 - INFO - #####################################
+2024-05-05 17:48:57,489 - INFO - #####################################
+2024-05-05 17:48:57,490 - INFO - Running dataset: [dos]
+2024-05-05 17:48:57,490 - INFO - #####################################
+2024-05-05 17:54:10,166 - INFO - Starting Logistic regression model...
+2024-05-05 17:54:10,176 - INFO - Logistic regression model finished. Elapsed time: 0:00:00.011015
+2024-05-05 18:10:42,737 - INFO - #####################################
+2024-05-05 18:10:42,741 - INFO - Running dataset: [dos]
+2024-05-05 18:10:42,741 - INFO - #####################################
+2024-05-05 19:13:58,591 - INFO - #####################################
+2024-05-05 19:13:58,591 - INFO - Running dataset: [dos]
+2024-05-05 19:13:58,592 - INFO - #####################################
+2024-05-05 19:22:07,218 - INFO - #####################################
+2024-05-05 19:22:07,218 - INFO - Running dataset: [dos]
+2024-05-05 19:22:07,218 - INFO - #####################################
+2024-05-05 19:22:36,576 - INFO - #####################################
+2024-05-05 19:22:36,576 - INFO - Running dataset: [dos]
+2024-05-05 19:22:36,577 - INFO - #####################################
+2024-05-05 19:22:37,776 - INFO - Starting Logistic Regression model...[2024-05-05 19:22:37]
+2024-05-05 19:22:37,786 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.010008
+2024-05-05 19:22:38,040 - INFO - Starting MLP model...[2024-05-05 19:22:38]
+2024-05-05 19:22:39,380 - INFO - MLP model finished. Elapsed time: 0:00:01.339749
+2024-05-05 19:22:39,533 - INFO - Starting SGD model...[2024-05-05 19:22:39]
+2024-05-05 19:22:39,556 - INFO - SGD model finished. Elapsed time: 0:00:00.023078
+2024-05-05 19:22:39,668 - INFO - Starting Linear regression model...[2024-05-05 19:22:39]
+2024-05-05 19:22:39,686 - INFO - Linear regression model finished. Elapsed time: 0:00:00.018111
+2024-05-05 19:22:39,809 - INFO - Starting CNN model...[2024-05-05 19:22:39]
+2024-05-05 19:24:31,392 - INFO - #####################################
+2024-05-05 19:24:31,392 - INFO - Running dataset: [dos]
+2024-05-05 19:24:31,392 - INFO - #####################################
+2024-05-05 19:24:32,426 - INFO - Starting Logistic Regression model...[2024-05-05 19:24:32]
+2024-05-05 19:24:32,436 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.010078
+2024-05-05 19:24:32,444 - INFO - Starting MLP model...[2024-05-05 19:24:32]
+2024-05-05 19:24:33,801 - INFO - MLP model finished. Elapsed time: 0:00:01.357696
+2024-05-05 19:24:33,810 - INFO - Starting SGD model...[2024-05-05 19:24:33]
+2024-05-05 19:24:33,820 - INFO - SGD model finished. Elapsed time: 0:00:00.010065
+2024-05-05 19:24:33,829 - INFO - Starting Linear regression model...[2024-05-05 19:24:33]
+2024-05-05 19:24:33,831 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002000
+2024-05-05 19:24:33,840 - INFO - Starting CNN model...[2024-05-05 19:24:33]
+2024-05-05 19:24:37,310 - INFO - #####################################
+2024-05-05 19:24:37,310 - INFO - Running dataset: [dos]
+2024-05-05 19:24:37,310 - INFO - #####################################
+2024-05-05 19:24:38,348 - INFO - Starting Logistic Regression model...[2024-05-05 19:24:38]
+2024-05-05 19:24:38,359 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.010753
+2024-05-05 19:24:38,368 - INFO - Starting MLP model...[2024-05-05 19:24:38]
+2024-05-05 19:24:39,626 - INFO - MLP model finished. Elapsed time: 0:00:01.257738
+2024-05-05 19:24:39,628 - INFO - Starting SGD model...[2024-05-05 19:24:39]
+2024-05-05 19:24:39,638 - INFO - SGD model finished. Elapsed time: 0:00:00.010183
+2024-05-05 19:24:39,638 - INFO - Starting Linear regression model...[2024-05-05 19:24:39]
+2024-05-05 19:24:39,648 - INFO - Linear regression model finished. Elapsed time: 0:00:00.010068
+2024-05-05 19:24:39,656 - INFO - Starting CNN model...[2024-05-05 19:24:39]
+2024-05-05 19:46:22,544 - INFO - #####################################
+2024-05-05 19:46:22,544 - INFO - Running dataset: [dos]
+2024-05-05 19:46:22,544 - INFO - #####################################
+2024-05-05 19:46:23,680 - INFO - Starting Logistic Regression model...[2024-05-05 19:46:23]
+2024-05-05 19:46:23,698 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.018078
+2024-05-05 19:46:23,713 - INFO - Starting MLP model...[2024-05-05 19:46:23]
+2024-05-05 19:46:25,077 - INFO - MLP model finished. Elapsed time: 0:00:01.363517
+2024-05-05 19:46:25,079 - INFO - Starting SGD model...[2024-05-05 19:46:25]
+2024-05-05 19:46:25,089 - INFO - SGD model finished. Elapsed time: 0:00:00.010046
+2024-05-05 19:46:25,099 - INFO - Starting Linear regression model...[2024-05-05 19:46:25]
+2024-05-05 19:46:25,124 - INFO - Linear regression model finished. Elapsed time: 0:00:00.024552
+2024-05-05 19:46:25,134 - INFO - Starting CNN model...[2024-05-05 19:46:25]
+2024-05-05 19:47:54,628 - INFO - #####################################
+2024-05-05 19:47:54,629 - INFO - Running dataset: [dos]
+2024-05-05 19:47:54,629 - INFO - #####################################
+2024-05-05 19:47:55,803 - INFO - Starting CNN model...[2024-05-05 19:47:55]
+2024-05-05 19:54:48,025 - INFO - #####################################
+2024-05-05 19:54:48,026 - INFO - Running dataset: [dos]
+2024-05-05 19:54:48,026 - INFO - #####################################
+2024-05-05 19:54:49,213 - INFO - Starting CNN model...[2024-05-05 19:54:49]
+2024-05-05 19:57:35,259 - INFO - #####################################
+2024-05-05 19:57:35,263 - INFO - Running dataset: [fuzzy]
+2024-05-05 19:57:35,263 - INFO - #####################################
+2024-05-05 19:57:36,781 - INFO - Starting CNN model...[2024-05-05 19:57:36]
+2024-05-05 20:02:58,707 - INFO - #####################################
+2024-05-05 20:02:58,709 - INFO - Running dataset: [dos]
+2024-05-05 20:02:58,709 - INFO - #####################################
+2024-05-05 20:04:03,153 - INFO - #####################################
+2024-05-05 20:04:03,153 - INFO - Running dataset: [fuzzy]
+2024-05-05 20:04:03,154 - INFO - #####################################
+2024-05-05 20:04:03,238 - INFO - Starting CNN model...[2024-05-05 20:04:03]
+2024-05-05 20:05:11,427 - INFO - #####################################
+2024-05-05 20:05:11,427 - INFO - Running dataset: [fuzzy]
+2024-05-05 20:05:11,427 - INFO - #####################################
+2024-05-05 20:05:11,483 - INFO - Starting CNN model...[2024-05-05 20:05:11]
+2024-05-05 20:05:43,883 - INFO - #####################################
+2024-05-05 20:05:43,883 - INFO - Running dataset: [fuzzy]
+2024-05-05 20:05:43,883 - INFO - #####################################
+2024-05-05 20:05:43,944 - INFO - Starting CNN model...[2024-05-05 20:05:43]
+2024-05-05 20:07:00,126 - INFO - #####################################
+2024-05-05 20:07:00,127 - INFO - Running dataset: [fuzzy]
+2024-05-05 20:07:00,127 - INFO - #####################################
+2024-05-05 20:07:00,184 - INFO - Starting CNN model...[2024-05-05 20:07:00]
+2024-05-05 20:09:15,547 - INFO - #####################################
+2024-05-05 20:09:15,547 - INFO - Running dataset: [fuzzy]
+2024-05-05 20:09:15,547 - INFO - #####################################
+2024-05-05 20:09:15,625 - INFO - Starting CNN model...[2024-05-05 20:09:15]
+2024-05-05 20:09:19,607 - INFO - CNN model finished. Elapsed time: 0:00:03.981933
+2024-05-05 20:09:19,607 - INFO - CNN model finished. Elapsed time: 0:00:03.981933
+2024-05-05 20:19:06,487 - INFO - #####################################
+2024-05-05 20:19:06,516 - INFO - Running dataset: [fuzzy]
+2024-05-05 20:19:06,516 - INFO - #####################################
+2024-05-05 20:19:06,962 - INFO - Starting CNN model...[2024-05-05 20:19:06]
+2024-05-05 20:19:12,848 - INFO - CNN model finished. Elapsed time: 0:00:05.885638
+2024-05-05 20:19:12,849 - INFO - CNN model finished. Elapsed time: 0:00:05.887645
+2024-05-05 20:19:34,293 - INFO - #####################################
+2024-05-05 20:19:34,294 - INFO - Running dataset: [dos]
+2024-05-05 20:19:34,294 - INFO - #####################################
+2024-05-05 20:19:35,617 - INFO - Starting Logistic Regression model...[2024-05-05 20:19:35]
+2024-05-05 20:19:35,638 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.021302
+2024-05-05 20:19:35,646 - INFO - Starting MLP model...[2024-05-05 20:19:35]
+2024-05-05 20:19:36,970 - INFO - MLP model finished. Elapsed time: 0:00:01.324025
+2024-05-05 20:19:36,982 - INFO - Starting SGD model...[2024-05-05 20:19:36]
+2024-05-05 20:19:36,990 - INFO - SGD model finished. Elapsed time: 0:00:00.008002
+2024-05-05 20:19:36,999 - INFO - Starting Linear regression model...[2024-05-05 20:19:36]
+2024-05-05 20:19:37,025 - INFO - Linear regression model finished. Elapsed time: 0:00:00.026001
+2024-05-05 20:19:37,034 - INFO - Starting CNN model...[2024-05-05 20:19:37]
+2024-05-05 20:22:24,909 - INFO - #####################################
+2024-05-05 20:22:24,909 - INFO - Running dataset: [dos]
+2024-05-05 20:22:24,909 - INFO - #####################################
+2024-05-05 20:22:27,017 - INFO - Starting Logistic Regression model...[2024-05-05 20:22:27]
+2024-05-05 20:22:27,130 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.112241
+2024-05-05 20:22:27,147 - INFO - Starting MLP model...[2024-05-05 20:22:27]
+2024-05-05 20:22:29,880 - INFO - MLP model finished. Elapsed time: 0:00:02.732647
+2024-05-05 20:22:29,896 - INFO - Starting SGD model...[2024-05-05 20:22:29]
+2024-05-05 20:22:29,909 - INFO - SGD model finished. Elapsed time: 0:00:00.013001
+2024-05-05 20:22:29,927 - INFO - Starting Linear regression model...[2024-05-05 20:22:29]
+2024-05-05 20:22:29,957 - INFO - Linear regression model finished. Elapsed time: 0:00:00.029662
+2024-05-05 20:22:29,969 - INFO - Starting CNN model...[2024-05-05 20:22:29]
+2024-05-05 20:25:36,432 - INFO - #####################################
+2024-05-05 20:25:36,439 - INFO - Running dataset: [dos]
+2024-05-05 20:25:36,439 - INFO - #####################################
+2024-05-05 20:25:38,214 - INFO - Starting Logistic Regression model...[2024-05-05 20:25:38]
+2024-05-05 20:25:38,263 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.048777
+2024-05-05 20:25:38,278 - INFO - Starting MLP model...[2024-05-05 20:25:38]
+2024-05-05 20:25:39,835 - INFO - MLP model finished. Elapsed time: 0:00:01.557391
+2024-05-05 20:25:39,844 - INFO - Starting SGD model...[2024-05-05 20:25:39]
+2024-05-05 20:25:39,854 - INFO - SGD model finished. Elapsed time: 0:00:00.010214
+2024-05-05 20:25:39,861 - INFO - Starting Linear regression model...[2024-05-05 20:25:39]
+2024-05-05 20:25:39,885 - INFO - Linear regression model finished. Elapsed time: 0:00:00.023098
+2024-05-05 20:25:39,892 - INFO - Starting CNN model...[2024-05-05 20:25:39]
+2024-05-05 20:26:45,218 - INFO - #####################################
+2024-05-05 20:26:45,219 - INFO - Running dataset: [dos]
+2024-05-05 20:26:45,219 - INFO - #####################################
+2024-05-05 20:26:46,335 - INFO - Starting Logistic Regression model...[2024-05-05 20:26:46]
+2024-05-05 20:26:46,357 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.021684
+2024-05-05 20:26:46,367 - INFO - Starting MLP model...[2024-05-05 20:26:46]
+2024-05-05 20:26:47,913 - INFO - MLP model finished. Elapsed time: 0:00:01.546042
+2024-05-05 20:26:47,922 - INFO - Starting SGD model...[2024-05-05 20:26:47]
+2024-05-05 20:26:47,927 - INFO - SGD model finished. Elapsed time: 0:00:00.005139
+2024-05-05 20:26:47,935 - INFO - Starting Linear regression model...[2024-05-05 20:26:47]
+2024-05-05 20:26:47,956 - INFO - Linear regression model finished. Elapsed time: 0:00:00.020360
+2024-05-05 20:26:47,964 - INFO - Starting CNN model...[2024-05-05 20:26:47]
+2024-05-05 20:32:35,250 - INFO - #####################################
+2024-05-05 20:32:35,251 - INFO - Running dataset: [dos]
+2024-05-05 20:32:35,251 - INFO - #####################################
+2024-05-05 20:32:36,346 - INFO - Starting Logistic Regression model...[2024-05-05 20:32:36]
+2024-05-05 20:32:36,370 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.024350
+2024-05-05 20:32:36,380 - INFO - Starting MLP model...[2024-05-05 20:32:36]
+2024-05-05 20:32:37,542 - INFO - MLP model finished. Elapsed time: 0:00:01.162089
+2024-05-05 20:32:37,550 - INFO - Starting SGD model...[2024-05-05 20:32:37]
+2024-05-05 20:32:37,554 - INFO - SGD model finished. Elapsed time: 0:00:00.004001
+2024-05-05 20:32:37,563 - INFO - Starting Linear regression model...[2024-05-05 20:32:37]
+2024-05-05 20:32:37,583 - INFO - Linear regression model finished. Elapsed time: 0:00:00.019770
+2024-05-05 20:32:37,590 - INFO - Starting CNN model...[2024-05-05 20:32:37]
+2024-05-05 20:34:19,601 - INFO - #####################################
+2024-05-05 20:34:19,601 - INFO - Running dataset: [dos]
+2024-05-05 20:34:19,602 - INFO - #####################################
+2024-05-05 20:34:20,878 - INFO - Starting Logistic Regression model...[2024-05-05 20:34:20]
+2024-05-05 20:34:20,891 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.013122
+2024-05-05 20:34:20,902 - INFO - Starting MLP model...[2024-05-05 20:34:20]
+2024-05-05 20:34:22,325 - INFO - MLP model finished. Elapsed time: 0:00:01.422790
+2024-05-05 20:34:22,336 - INFO - Starting SGD model...[2024-05-05 20:34:22]
+2024-05-05 20:34:22,342 - INFO - SGD model finished. Elapsed time: 0:00:00.005999
+2024-05-05 20:34:22,353 - INFO - Starting Linear regression model...[2024-05-05 20:34:22]
+2024-05-05 20:34:22,357 - INFO - Linear regression model finished. Elapsed time: 0:00:00.004000
+2024-05-05 20:34:22,367 - INFO - Starting CNN model...[2024-05-05 20:34:22]
+2024-05-05 20:42:12,841 - INFO - #####################################
+2024-05-05 20:42:12,845 - INFO - Running dataset: [dos]
+2024-05-05 20:42:12,846 - INFO - #####################################
+2024-05-05 20:42:14,390 - INFO - Starting Logistic Regression model...[2024-05-05 20:42:14]
+2024-05-05 20:42:14,474 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.084078
+2024-05-05 20:42:14,491 - INFO - Starting MLP model...[2024-05-05 20:42:14]
+2024-05-05 20:42:16,649 - INFO - MLP model finished. Elapsed time: 0:00:02.158644
+2024-05-05 20:42:16,660 - INFO - Starting SGD model...[2024-05-05 20:42:16]
+2024-05-05 20:42:16,702 - INFO - SGD model finished. Elapsed time: 0:00:00.041446
+2024-05-05 20:42:16,718 - INFO - Starting Linear regression model...[2024-05-05 20:42:16]
+2024-05-05 20:42:16,777 - INFO - Linear regression model finished. Elapsed time: 0:00:00.058234
+2024-05-05 20:42:16,790 - INFO - Starting CNN model...[2024-05-05 20:42:16]
+2024-05-05 20:43:26,071 - INFO - #####################################
+2024-05-05 20:43:26,072 - INFO - Running dataset: [dos]
+2024-05-05 20:43:26,072 - INFO - #####################################
+2024-05-05 20:43:27,223 - INFO - Starting Logistic Regression model...[2024-05-05 20:43:27]
+2024-05-05 20:43:27,240 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.016436
+2024-05-05 20:43:27,250 - INFO - Starting MLP model...[2024-05-05 20:43:27]
+2024-05-05 20:43:28,523 - INFO - MLP model finished. Elapsed time: 0:00:01.274447
+2024-05-05 20:43:28,532 - INFO - Starting SGD model...[2024-05-05 20:43:28]
+2024-05-05 20:43:28,538 - INFO - SGD model finished. Elapsed time: 0:00:00.006000
+2024-05-05 20:43:28,546 - INFO - Starting Linear regression model...[2024-05-05 20:43:28]
+2024-05-05 20:43:28,555 - INFO - Linear regression model finished. Elapsed time: 0:00:00.008999
+2024-05-05 20:43:28,564 - INFO - Starting CNN model...[2024-05-05 20:43:28]
+2024-05-05 20:51:07,382 - INFO - #####################################
+2024-05-05 20:51:07,383 - INFO - Running dataset: [dos]
+2024-05-05 20:51:07,383 - INFO - #####################################
+2024-05-05 20:51:08,726 - INFO - Starting Logistic Regression model...[2024-05-05 20:51:08]
+2024-05-05 20:51:08,734 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.008053
+2024-05-05 20:51:08,751 - INFO - Starting MLP model...[2024-05-05 20:51:08]
+2024-05-05 20:51:10,372 - INFO - MLP model finished. Elapsed time: 0:00:01.620609
+2024-05-05 20:51:10,382 - INFO - Starting SGD model...[2024-05-05 20:51:10]
+2024-05-05 20:51:10,389 - INFO - SGD model finished. Elapsed time: 0:00:00.007000
+2024-05-05 20:51:10,401 - INFO - Starting Linear regression model...[2024-05-05 20:51:10]
+2024-05-05 20:51:10,406 - INFO - Linear regression model finished. Elapsed time: 0:00:00.004215
+2024-05-05 20:51:10,415 - INFO - Starting CNN model...[2024-05-05 20:51:10]
+2024-05-05 20:51:55,661 - INFO - #####################################
+2024-05-05 20:51:55,664 - INFO - Running dataset: [fuzzy]
+2024-05-05 20:51:55,665 - INFO - #####################################
+2024-05-05 20:51:55,828 - INFO - Starting CNN model...[2024-05-05 20:51:55]
+2024-05-05 20:52:00,553 - INFO - CNN model finished. Elapsed time: 0:00:04.725060
+2024-05-05 20:52:00,554 - INFO - CNN model finished. Elapsed time: 0:00:04.727058
+2024-05-05 20:54:45,365 - INFO - #####################################
+2024-05-05 20:54:45,365 - INFO - Running dataset: [fuzzy]
+2024-05-05 20:54:45,365 - INFO - #####################################
+2024-05-05 20:54:45,423 - INFO - Starting CNN model...[2024-05-05 20:54:45]
+2024-05-05 20:54:49,648 - INFO - CNN model finished. Elapsed time: 0:00:04.224782
+2024-05-05 20:54:49,648 - INFO - CNN model finished. Elapsed time: 0:00:04.224782
+2024-05-05 21:01:01,788 - INFO - #####################################
+2024-05-05 21:01:01,789 - INFO - Running dataset: [dos]
+2024-05-05 21:01:01,789 - INFO - #####################################
+2024-05-05 21:01:03,037 - INFO - Starting Logistic Regression model...[2024-05-05 21:01:03]
+2024-05-05 21:01:03,063 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.025357
+2024-05-05 21:01:03,072 - INFO - Starting MLP model...[2024-05-05 21:01:03]
+2024-05-05 21:01:04,383 - INFO - MLP model finished. Elapsed time: 0:00:01.311414
+2024-05-05 21:01:04,392 - INFO - Starting SGD model...[2024-05-05 21:01:04]
+2024-05-05 21:01:04,400 - INFO - SGD model finished. Elapsed time: 0:00:00.007998
+2024-05-05 21:01:04,407 - INFO - Starting Linear regression model...[2024-05-05 21:01:04]
+2024-05-05 21:01:04,428 - INFO - Linear regression model finished. Elapsed time: 0:00:00.020315
+2024-05-05 21:01:04,436 - INFO - Starting CNN model...[2024-05-05 21:01:04]
+2024-05-06 21:11:29,940 - INFO - #####################################
+2024-05-06 21:11:29,940 - INFO - Running dataset: [dos]
+2024-05-06 21:11:29,940 - INFO - #####################################
+2024-05-06 21:11:31,366 - INFO - Starting Logistic Regression model...[2024-05-06 21:11:31]
+2024-05-06 21:11:31,396 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.029936
+2024-05-06 21:11:31,402 - INFO - Starting MLP model...[2024-05-06 21:11:31]
+2024-05-06 21:11:32,071 - INFO - MLP model finished. Elapsed time: 0:00:00.668994
+2024-05-06 21:11:32,089 - INFO - Starting SGD model...[2024-05-06 21:11:32]
+2024-05-06 21:11:32,101 - INFO - SGD model finished. Elapsed time: 0:00:00.012345
+2024-05-06 21:11:32,112 - INFO - Starting Linear regression model...[2024-05-06 21:11:32]
+2024-05-06 21:11:32,221 - INFO - Linear regression model finished. Elapsed time: 0:00:00.109033
+2024-05-06 21:27:36,908 - INFO - #####################################
+2024-05-06 21:27:36,908 - INFO - Running dataset: [dos]
+2024-05-06 21:27:36,908 - INFO - #####################################
+2024-05-06 21:27:38,541 - INFO - Starting Logistic Regression model...[2024-05-06 21:27:38]
+2024-05-06 21:27:38,572 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.031049
+2024-05-06 21:27:39,362 - INFO - Starting MLP model...[2024-05-06 21:27:39]
+2024-05-06 21:27:40,400 - INFO - MLP model finished. Elapsed time: 0:00:01.037852
+2024-05-06 21:27:40,993 - INFO - Starting SGD model...[2024-05-06 21:27:40]
+2024-05-06 21:27:41,003 - INFO - SGD model finished. Elapsed time: 0:00:00.010231
+2024-05-06 21:27:41,623 - INFO - Starting Linear regression model...[2024-05-06 21:27:41]
+2024-05-06 21:27:41,626 - INFO - Linear regression model finished. Elapsed time: 0:00:00.003618
+2024-05-06 21:29:24,283 - INFO - #####################################
+2024-05-06 21:29:24,283 - INFO - Running dataset: [dos]
+2024-05-06 21:29:24,283 - INFO - #####################################
+2024-05-06 21:29:25,846 - INFO - Starting Logistic Regression model...[2024-05-06 21:29:25]
+2024-05-06 21:29:25,866 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.020143
+2024-05-06 21:29:25,881 - INFO - Starting MLP model...[2024-05-06 21:29:25]
+2024-05-06 21:29:26,613 - INFO - MLP model finished. Elapsed time: 0:00:00.731721
+2024-05-06 21:29:26,626 - INFO - Starting SGD model...[2024-05-06 21:29:26]
+2024-05-06 21:29:26,635 - INFO - SGD model finished. Elapsed time: 0:00:00.006999
+2024-05-06 21:29:26,653 - INFO - Starting Linear regression model...[2024-05-06 21:29:26]
+2024-05-06 21:29:26,655 - INFO - Linear regression model finished. Elapsed time: 0:00:00.001946
+2024-05-06 21:29:26,671 - INFO - Starting CNN model...[2024-05-06 21:29:26]
+2024-05-06 21:34:01,414 - INFO - #####################################
+2024-05-06 21:34:01,414 - INFO - Running dataset: [dos]
+2024-05-06 21:34:01,414 - INFO - #####################################
+2024-05-06 21:34:03,223 - INFO - Starting Logistic Regression model...[2024-05-06 21:34:03]
+2024-05-06 21:34:03,242 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.019581
+2024-05-06 21:34:03,260 - INFO - Starting MLP model...[2024-05-06 21:34:03]
+2024-05-06 21:34:04,399 - INFO - MLP model finished. Elapsed time: 0:00:01.138973
+2024-05-06 21:34:04,410 - INFO - Starting SGD model...[2024-05-06 21:34:04]
+2024-05-06 21:34:04,415 - INFO - SGD model finished. Elapsed time: 0:00:00.004361
+2024-05-06 21:34:04,423 - INFO - Starting Linear regression model...[2024-05-06 21:34:04]
+2024-05-06 21:34:04,431 - INFO - Linear regression model finished. Elapsed time: 0:00:00.008262
+2024-05-06 21:35:20,059 - INFO - #####################################
+2024-05-06 21:35:20,059 - INFO - Running dataset: [dos]
+2024-05-06 21:35:20,059 - INFO - #####################################
+2024-05-06 21:35:21,711 - INFO - Starting Logistic Regression model...[2024-05-06 21:35:21]
+2024-05-06 21:35:21,724 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.013043
+2024-05-06 21:35:21,740 - INFO - Starting MLP model...[2024-05-06 21:35:21]
+2024-05-06 21:35:22,658 - INFO - MLP model finished. Elapsed time: 0:00:00.917905
+2024-05-06 21:35:22,671 - INFO - Starting SGD model...[2024-05-06 21:35:22]
+2024-05-06 21:35:22,678 - INFO - SGD model finished. Elapsed time: 0:00:00.007497
+2024-05-06 21:35:22,687 - INFO - Starting Linear regression model...[2024-05-06 21:35:22]
+2024-05-06 21:35:22,690 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002824
+2024-05-06 21:36:18,352 - INFO - #####################################
+2024-05-06 21:36:18,352 - INFO - Running dataset: [dos]
+2024-05-06 21:36:18,352 - INFO - #####################################
+2024-05-06 21:36:19,694 - INFO - Starting Logistic Regression model...[2024-05-06 21:36:19]
+2024-05-06 21:36:19,718 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.023466
+2024-05-06 21:36:19,729 - INFO - Starting MLP model...[2024-05-06 21:36:19]
+2024-05-06 21:36:20,881 - INFO - MLP model finished. Elapsed time: 0:00:01.152237
+2024-05-06 21:36:20,896 - INFO - Starting SGD model...[2024-05-06 21:36:20]
+2024-05-06 21:36:20,906 - INFO - SGD model finished. Elapsed time: 0:00:00.009577
+2024-05-06 21:36:20,913 - INFO - Starting Linear regression model...[2024-05-06 21:36:20]
+2024-05-06 21:36:20,921 - INFO - Linear regression model finished. Elapsed time: 0:00:00.008406
+2024-05-06 21:38:02,982 - INFO - #####################################
+2024-05-06 21:38:02,982 - INFO - Running dataset: [dos]
+2024-05-06 21:38:02,982 - INFO - #####################################
+2024-05-06 21:38:04,979 - INFO - Starting Logistic Regression model...[2024-05-06 21:38:04]
+2024-05-06 21:38:04,995 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.016623
+2024-05-06 21:38:05,012 - INFO - Starting MLP model...[2024-05-06 21:38:05]
+2024-05-06 21:38:06,240 - INFO - MLP model finished. Elapsed time: 0:00:01.227818
+2024-05-06 21:38:06,255 - INFO - Starting SGD model...[2024-05-06 21:38:06]
+2024-05-06 21:38:06,259 - INFO - SGD model finished. Elapsed time: 0:00:00.003329
+2024-05-06 21:38:06,279 - INFO - Starting Linear regression model...[2024-05-06 21:38:06]
+2024-05-06 21:38:06,279 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002023
+2024-05-06 21:38:06,296 - INFO - Starting CNN model...[2024-05-06 21:38:06]
+2024-05-06 21:39:29,952 - INFO - #####################################
+2024-05-06 21:39:29,952 - INFO - Running dataset: [dos]
+2024-05-06 21:39:29,952 - INFO - #####################################
+2024-05-06 21:39:31,084 - INFO - Starting Logistic Regression model...[2024-05-06 21:39:31]
+2024-05-06 21:39:31,102 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.018070
+2024-05-06 21:39:31,102 - INFO - Starting MLP model...[2024-05-06 21:39:31]
+2024-05-06 21:39:31,697 - INFO - MLP model finished. Elapsed time: 0:00:00.595228
+2024-05-06 21:39:31,709 - INFO - Starting SGD model...[2024-05-06 21:39:31]
+2024-05-06 21:39:31,717 - INFO - SGD model finished. Elapsed time: 0:00:00.008038
+2024-05-06 21:39:31,722 - INFO - Starting Linear regression model...[2024-05-06 21:39:31]
+2024-05-06 21:39:31,729 - INFO - Linear regression model finished. Elapsed time: 0:00:00.007209
+2024-05-06 21:39:31,739 - INFO - Starting CNN model...[2024-05-06 21:39:31]
+2024-05-06 21:41:13,068 - INFO - #####################################
+2024-05-06 21:41:13,068 - INFO - Running dataset: [dos]
+2024-05-06 21:41:13,068 - INFO - #####################################
+2024-05-06 21:42:31,413 - INFO - #####################################
+2024-05-06 21:42:31,413 - INFO - Running dataset: [dos]
+2024-05-06 21:42:31,413 - INFO - #####################################
+2024-05-06 21:42:33,273 - INFO - Starting Logistic Regression model...[2024-05-06 21:42:33]
+2024-05-06 21:42:33,296 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.023605
+2024-05-06 21:42:33,306 - INFO - Starting MLP model...[2024-05-06 21:42:33]
+2024-05-06 21:42:34,077 - INFO - MLP model finished. Elapsed time: 0:00:00.771792
+2024-05-06 21:42:34,090 - INFO - Starting SGD model...[2024-05-06 21:42:34]
+2024-05-06 21:42:34,094 - INFO - SGD model finished. Elapsed time: 0:00:00.004298
+2024-05-06 21:42:34,102 - INFO - Starting Linear regression model...[2024-05-06 21:42:34]
+2024-05-06 21:42:34,113 - INFO - Linear regression model finished. Elapsed time: 0:00:00.011272
+2024-05-06 21:42:34,126 - INFO - Starting CNN model...[2024-05-06 21:42:34]
+2024-05-07 21:05:21,258 - INFO - #####################################
+2024-05-07 21:05:21,259 - INFO - Running dataset: [dos]
+2024-05-07 21:05:21,259 - INFO - #####################################
+2024-05-07 21:05:30,320 - INFO - Starting CNN model...[2024-05-07 21:05:30]
+2024-05-07 21:12:45,911 - INFO - #####################################
+2024-05-07 21:12:45,912 - INFO - Running dataset: [dos]
+2024-05-07 21:12:45,912 - INFO - #####################################
+2024-05-07 21:12:53,113 - INFO - Starting CNN model...[2024-05-07 21:12:53]
+2024-05-07 21:15:51,027 - INFO - #####################################
+2024-05-07 21:15:51,027 - INFO - Running dataset: [dos]
+2024-05-07 21:15:51,027 - INFO - #####################################
+2024-05-07 21:15:59,231 - INFO - Starting CNN model...[2024-05-07 21:15:59]
+2024-05-07 21:16:28,098 - INFO - #####################################
+2024-05-07 21:16:28,098 - INFO - Running dataset: [dos]
+2024-05-07 21:16:28,098 - INFO - #####################################
+2024-05-07 21:16:35,683 - INFO - Starting CNN model...[2024-05-07 21:16:35]
+2024-05-07 21:16:42,921 - INFO - CNN model finished. Elapsed time: 0:00:07.237022
+2024-05-07 21:16:42,921 - INFO - CNN model finished. Elapsed time: 0:00:07.237632
+2024-05-07 21:17:40,520 - INFO - #####################################
+2024-05-07 21:17:40,520 - INFO - Running dataset: [dos]
+2024-05-07 21:17:40,520 - INFO - #####################################
+2024-05-07 21:17:47,840 - INFO - Starting Logistic Regression model...[2024-05-07 21:17:47]
+2024-05-07 21:17:47,875 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.035689
+2024-05-07 21:17:47,888 - INFO - Starting MLP model...[2024-05-07 21:17:47]
+2024-05-07 21:17:49,513 - INFO - MLP model finished. Elapsed time: 0:00:01.625417
+2024-05-07 21:17:49,523 - INFO - Starting SGD model...[2024-05-07 21:17:49]
+2024-05-07 21:17:49,538 - INFO - SGD model finished. Elapsed time: 0:00:00.014881
+2024-05-07 21:17:49,542 - INFO - Starting Linear regression model...[2024-05-07 21:17:49]
+2024-05-07 21:17:49,571 - INFO - Linear regression model finished. Elapsed time: 0:00:00.029019
+2024-05-07 21:17:49,581 - INFO - Starting CNN model...[2024-05-07 21:17:49]
+2024-05-07 21:17:57,708 - INFO - CNN model finished. Elapsed time: 0:00:08.126894
+2024-05-07 21:17:57,709 - INFO - CNN model finished. Elapsed time: 0:00:08.128234
+2024-05-07 21:20:22,160 - INFO - #####################################
+2024-05-07 21:20:22,160 - INFO - Running dataset: [dos]
+2024-05-07 21:20:22,160 - INFO - #####################################
+2024-05-07 21:20:23,636 - INFO - Starting Logistic Regression model...[2024-05-07 21:20:23]
+2024-05-07 21:20:23,650 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.013948
+2024-05-07 21:20:23,664 - INFO - Starting MLP model...[2024-05-07 21:20:23]
+2024-05-07 21:20:25,370 - INFO - MLP model finished. Elapsed time: 0:00:01.706066
+2024-05-07 21:20:25,377 - INFO - Starting SGD model...[2024-05-07 21:20:25]
+2024-05-07 21:20:25,386 - INFO - SGD model finished. Elapsed time: 0:00:00.009766
+2024-05-07 21:20:25,397 - INFO - Starting Linear regression model...[2024-05-07 21:20:25]
+2024-05-07 21:20:25,401 - INFO - Linear regression model finished. Elapsed time: 0:00:00.004640
+2024-05-07 21:20:25,410 - INFO - Starting CNN model...[2024-05-07 21:20:25]
+2024-05-07 21:20:32,818 - INFO - CNN model finished. Elapsed time: 0:00:07.408663
+2024-05-07 21:20:32,818 - INFO - CNN model finished. Elapsed time: 0:00:07.408663
+2024-05-07 21:22:29,038 - INFO - #####################################
+2024-05-07 21:22:29,038 - INFO - Running dataset: [dos]
+2024-05-07 21:22:29,039 - INFO - #####################################
+2024-05-07 21:22:30,210 - INFO - Starting Logistic Regression model...[2024-05-07 21:22:30]
+2024-05-07 21:22:30,229 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.018771
+2024-05-07 21:22:30,235 - INFO - Starting MLP model...[2024-05-07 21:22:30]
+2024-05-07 21:22:30,868 - INFO - MLP model finished. Elapsed time: 0:00:00.633531
+2024-05-07 21:22:30,880 - INFO - Starting SGD model...[2024-05-07 21:22:30]
+2024-05-07 21:22:30,887 - INFO - SGD model finished. Elapsed time: 0:00:00.007120
+2024-05-07 21:22:30,897 - INFO - Starting Linear regression model...[2024-05-07 21:22:30]
+2024-05-07 21:22:30,934 - INFO - Linear regression model finished. Elapsed time: 0:00:00.036969
+2024-05-07 21:22:30,944 - INFO - Starting CNN model...[2024-05-07 21:22:30]
+2024-05-07 21:22:35,233 - INFO - CNN model finished. Elapsed time: 0:00:04.288811
+2024-05-07 21:22:35,233 - INFO - CNN model finished. Elapsed time: 0:00:04.288811
+2024-05-07 21:24:57,430 - INFO - #####################################
+2024-05-07 21:24:57,431 - INFO - Running dataset: [dos]
+2024-05-07 21:24:57,431 - INFO - #####################################
+2024-05-07 21:24:58,815 - INFO - Starting Logistic Regression model...[2024-05-07 21:24:58]
+2024-05-07 21:24:58,840 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.024289
+2024-05-07 21:24:58,850 - INFO - Starting MLP model...[2024-05-07 21:24:58]
+2024-05-07 21:24:59,413 - INFO - MLP model finished. Elapsed time: 0:00:00.571175
+2024-05-07 21:24:59,423 - INFO - Starting SGD model...[2024-05-07 21:24:59]
+2024-05-07 21:24:59,425 - INFO - SGD model finished. Elapsed time: 0:00:00.002025
+2024-05-07 21:24:59,435 - INFO - Starting Linear regression model...[2024-05-07 21:24:59]
+2024-05-07 21:24:59,435 - INFO - Linear regression model finished. Elapsed time: 0:00:00
+2024-05-07 21:24:59,443 - INFO - Starting CNN model...[2024-05-07 21:24:59]
+2024-05-07 21:25:06,246 - INFO - CNN model finished. Elapsed time: 0:00:06.802126
+2024-05-07 21:25:06,247 - INFO - CNN model finished. Elapsed time: 0:00:06.803138
+2024-05-07 21:31:37,979 - INFO - #####################################
+2024-05-07 21:31:37,979 - INFO - Running dataset: [dos]
+2024-05-07 21:31:37,979 - INFO - #####################################
+2024-05-07 21:33:56,451 - INFO - #####################################
+2024-05-07 21:33:56,451 - INFO - Running dataset: [dos]
+2024-05-07 21:33:56,452 - INFO - #####################################
+2024-05-07 21:36:51,953 - INFO - #####################################
+2024-05-07 21:36:51,954 - INFO - Running dataset: [dos]
+2024-05-07 21:36:51,954 - INFO - #####################################
+2024-05-07 21:37:29,743 - INFO - #####################################
+2024-05-07 21:37:29,743 - INFO - Running dataset: [dos]
+2024-05-07 21:37:29,743 - INFO - #####################################
+2024-05-07 21:40:04,651 - INFO - #####################################
+2024-05-07 21:40:04,651 - INFO - Running dataset: [dos]
+2024-05-07 21:40:04,651 - INFO - #####################################
+2024-05-07 21:42:56,115 - INFO - #####################################
+2024-05-07 21:42:56,115 - INFO - Running dataset: [dos]
+2024-05-07 21:42:56,115 - INFO - #####################################
+2024-05-07 21:42:57,583 - INFO - Starting Logistic Regression model...[2024-05-07 21:42:57]
+2024-05-07 21:42:57,614 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.030635
+2024-05-07 21:42:57,629 - INFO - Starting MLP model...[2024-05-07 21:42:57]
+2024-05-07 21:42:58,394 - INFO - MLP model finished. Elapsed time: 0:00:00.764739
+2024-05-07 21:42:58,394 - INFO - Starting SGD model...[2024-05-07 21:42:58]
+2024-05-07 21:42:58,410 - INFO - SGD model finished. Elapsed time: 0:00:00.015642
+2024-05-07 21:42:58,410 - INFO - Starting Linear regression model...[2024-05-07 21:42:58]
+2024-05-07 21:42:58,425 - INFO - Linear regression model finished. Elapsed time: 0:00:00.015626
+2024-05-07 21:42:58,425 - INFO - Starting CNN model...[2024-05-07 21:42:58]
+2024-05-07 21:43:03,313 - INFO - CNN model finished. Elapsed time: 0:00:04.887765
+2024-05-07 21:43:03,313 - INFO - CNN model finished. Elapsed time: 0:00:04.887765
+2024-05-07 21:45:18,937 - INFO - #####################################
+2024-05-07 21:45:18,937 - INFO - Running dataset: [dos]
+2024-05-07 21:45:18,937 - INFO - #####################################
+2024-05-07 21:45:21,395 - INFO - Starting Logistic Regression model...[2024-05-07 21:45:21]
+2024-05-07 21:45:21,411 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.015620
+2024-05-07 21:45:21,421 - INFO - Starting MLP model...[2024-05-07 21:45:21]
+2024-05-07 21:45:22,061 - INFO - MLP model finished. Elapsed time: 0:00:00.640013
+2024-05-07 21:45:22,072 - INFO - Starting SGD model...[2024-05-07 21:45:22]
+2024-05-07 21:45:22,080 - INFO - SGD model finished. Elapsed time: 0:00:00.008025
+2024-05-07 21:45:22,090 - INFO - Starting Linear regression model...[2024-05-07 21:45:22]
+2024-05-07 21:45:22,094 - INFO - Linear regression model finished. Elapsed time: 0:00:00.003199
+2024-05-07 21:45:22,102 - INFO - Starting CNN model...[2024-05-07 21:45:22]
+2024-05-07 21:45:27,368 - INFO - CNN model finished. Elapsed time: 0:00:05.265823
+2024-05-07 21:45:27,368 - INFO - CNN model finished. Elapsed time: 0:00:05.265823
+2024-05-07 21:48:22,144 - INFO - #####################################
+2024-05-07 21:48:22,145 - INFO - Running dataset: [dos]
+2024-05-07 21:48:22,145 - INFO - #####################################
+2024-05-07 21:59:16,905 - INFO - Starting Logistic Regression model...[2024-05-07 21:59:16]
+2024-05-07 21:59:22,886 - INFO - Logistic Regression model finished. Elapsed time: 0:00:05.983313
+2024-05-07 21:59:23,842 - INFO - Starting MLP model...[2024-05-07 21:59:23]
+2024-05-07 22:04:24,419 - INFO - MLP model finished. Elapsed time: 0:05:00.568676
+2024-05-07 22:04:25,369 - INFO - Starting SGD model...[2024-05-07 22:04:25]
+2024-05-07 22:04:28,356 - INFO - SGD model finished. Elapsed time: 0:00:02.986634
+2024-05-07 22:04:29,258 - INFO - Starting Linear regression model...[2024-05-07 22:04:29]
+2024-05-07 22:04:30,067 - INFO - Linear regression model finished. Elapsed time: 0:00:00.809175
+2024-05-07 22:04:31,327 - INFO - Starting CNN model...[2024-05-07 22:04:31]
+2024-05-07 22:34:28,772 - INFO - CNN model finished. Elapsed time: 0:29:57.437361
+2024-05-07 22:34:28,791 - INFO - CNN model finished. Elapsed time: 0:29:57.461075
+2024-05-07 22:38:21,999 - INFO - #####################################
+2024-05-07 22:38:21,999 - INFO - Running dataset: [fuzzy]
+2024-05-07 22:38:21,999 - INFO - #####################################
+2024-05-07 23:45:52,397 - INFO - Starting Logistic Regression model...[2024-05-07 23:45:52]
+2024-05-07 23:45:58,783 - INFO - Logistic Regression model finished. Elapsed time: 0:00:06.388426
+2024-05-07 23:45:59,802 - INFO - Starting MLP model...[2024-05-07 23:45:59]
+2024-05-07 23:53:16,353 - INFO - MLP model finished. Elapsed time: 0:07:16.543229
+2024-05-07 23:53:17,352 - INFO - Starting SGD model...[2024-05-07 23:53:17]
+2024-05-07 23:54:56,572 - INFO - SGD model finished. Elapsed time: 0:01:39.219954
+2024-05-07 23:54:57,525 - INFO - Starting Linear regression model...[2024-05-07 23:54:57]
+2024-05-07 23:54:58,494 - INFO - Linear regression model finished. Elapsed time: 0:00:00.969705
+2024-05-07 23:54:59,449 - INFO - Starting CNN model...[2024-05-07 23:54:59]
+2024-05-08 00:23:18,804 - INFO - CNN model finished. Elapsed time: 0:28:19.351433
+2024-05-08 00:23:18,805 - INFO - CNN model finished. Elapsed time: 0:28:19.355587
+2024-05-08 00:23:20,052 - INFO - #####################################
+2024-05-08 00:23:20,053 - INFO - Running dataset: [gear]
+2024-05-08 00:23:20,053 - INFO - #####################################
+2024-05-08 00:35:15,138 - INFO - Starting Logistic Regression model...[2024-05-08 00:35:15]
+2024-05-08 00:35:35,356 - INFO - Logistic Regression model finished. Elapsed time: 0:00:20.219098
+2024-05-08 00:35:36,453 - INFO - Starting MLP model...[2024-05-08 00:35:36]
+2024-05-08 00:43:51,705 - INFO - MLP model finished. Elapsed time: 0:08:15.246662
+2024-05-08 00:43:52,842 - INFO - Starting SGD model...[2024-05-08 00:43:52]
+2024-05-08 00:43:58,784 - INFO - SGD model finished. Elapsed time: 0:00:05.942281
+2024-05-08 00:43:59,874 - INFO - Starting Linear regression model...[2024-05-08 00:43:59]
+2024-05-08 00:44:00,854 - INFO - Linear regression model finished. Elapsed time: 0:00:00.979911
+2024-05-08 00:44:01,943 - INFO - Starting CNN model...[2024-05-08 00:44:01]
+2024-05-08 01:14:12,130 - INFO - CNN model finished. Elapsed time: 0:30:10.187047
+2024-05-08 01:14:12,131 - INFO - CNN model finished. Elapsed time: 0:30:10.188047
+2024-05-08 01:14:13,443 - INFO - #####################################
+2024-05-08 01:14:13,443 - INFO - Running dataset: [rpm]
+2024-05-08 01:14:13,443 - INFO - #####################################
+2024-05-08 01:26:16,727 - INFO - Starting Logistic Regression model...[2024-05-08 01:26:16]
+2024-05-08 01:26:34,446 - INFO - Logistic Regression model finished. Elapsed time: 0:00:17.720834
+2024-05-08 01:26:35,632 - INFO - Starting MLP model...[2024-05-08 01:26:35]
+2024-05-08 01:35:47,194 - INFO - MLP model finished. Elapsed time: 0:09:11.557578
+2024-05-08 01:35:48,415 - INFO - Starting SGD model...[2024-05-08 01:35:48]
+2024-05-08 01:35:53,230 - INFO - SGD model finished. Elapsed time: 0:00:04.816389
+2024-05-08 01:35:54,395 - INFO - Starting Linear regression model...[2024-05-08 01:35:54]
+2024-05-08 01:35:55,441 - INFO - Linear regression model finished. Elapsed time: 0:00:01.046458
+2024-05-08 01:35:56,620 - INFO - Starting CNN model...[2024-05-08 01:35:56]
+2024-05-08 02:07:38,463 - INFO - CNN model finished. Elapsed time: 0:31:41.842670
+2024-05-08 02:07:38,465 - INFO - CNN model finished. Elapsed time: 0:31:41.844670
+2024-05-08 22:05:27,997 - INFO - #####################################
+2024-05-08 22:05:27,997 - INFO - Running dataset: [All]
+2024-05-08 22:05:27,997 - INFO - #####################################
+2024-05-08 22:07:34,629 - INFO - #####################################
+2024-05-08 22:07:34,629 - INFO - Running dataset: [All]
+2024-05-08 22:07:34,629 - INFO - #####################################
+2024-05-08 22:08:27,218 - INFO - #####################################
+2024-05-08 22:08:27,218 - INFO - Running dataset: [All]
+2024-05-08 22:08:27,218 - INFO - #####################################
+2024-05-08 22:09:47,937 - INFO - #####################################
+2024-05-08 22:09:47,937 - INFO - Running dataset: [All]
+2024-05-08 22:09:47,937 - INFO - #####################################
+2024-05-08 22:12:54,391 - INFO - Starting Logistic Regression model...[2024-05-08 22:12:54]
+2024-05-08 22:13:00,440 - INFO - Logistic Regression model finished. Elapsed time: 0:00:06.048982
+2024-05-08 22:13:00,766 - INFO - Starting MLP model...[2024-05-08 22:13:00]
+2024-05-08 22:14:08,337 - INFO - MLP model finished. Elapsed time: 0:01:07.571107
+2024-05-08 22:14:08,597 - INFO - Starting SGD model...[2024-05-08 22:14:08]
+2024-05-08 22:14:10,796 - INFO - SGD model finished. Elapsed time: 0:00:02.199717
+2024-05-08 22:14:11,077 - INFO - Starting Linear regression model...[2024-05-08 22:14:11]
+2024-05-08 22:14:11,313 - INFO - Linear regression model finished. Elapsed time: 0:00:00.235856
+2024-05-08 22:14:11,558 - INFO - Starting CNN model...[2024-05-08 22:14:11]
+2024-05-08 22:23:10,937 - INFO - CNN model finished. Elapsed time: 0:08:59.378264
+2024-05-08 22:23:10,937 - INFO - CNN model finished. Elapsed time: 0:08:59.379259
+2024-05-08 22:42:43,932 - INFO - #####################################
+2024-05-08 22:42:43,932 - INFO - Running dataset: [All]
+2024-05-08 22:42:43,932 - INFO - #####################################
+2024-05-08 22:42:45,862 - INFO - Starting Logistic Regression model...[2024-05-08 22:42:45]
+2024-05-08 22:42:46,083 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.221164
+2024-05-08 22:42:46,094 - INFO - Starting MLP model...[2024-05-08 22:42:46]
+2024-05-08 22:42:48,070 - INFO - MLP model finished. Elapsed time: 0:00:01.975941
+2024-05-08 22:42:48,084 - INFO - Starting SGD model...[2024-05-08 22:42:48]
+2024-05-08 22:42:48,158 - INFO - SGD model finished. Elapsed time: 0:00:00.073374
+2024-05-08 22:42:48,168 - INFO - Starting Linear regression model...[2024-05-08 22:42:48]
+2024-05-08 22:42:48,180 - INFO - Linear regression model finished. Elapsed time: 0:00:00.012002
+2024-05-08 22:42:48,191 - INFO - Starting CNN model...[2024-05-08 22:42:48]
+2024-05-08 22:42:56,284 - INFO - CNN model finished. Elapsed time: 0:00:08.093304
+2024-05-08 22:42:56,285 - INFO - CNN model finished. Elapsed time: 0:00:08.093304
+2024-05-08 22:57:29,097 - INFO - #####################################
+2024-05-08 22:57:29,097 - INFO - Running dataset: [All]
+2024-05-08 22:57:29,098 - INFO - #####################################
+2024-05-08 22:57:31,355 - INFO - Starting MLP model...[2024-05-08 22:57:31]
+2024-05-08 22:57:32,587 - INFO - MLP model finished. Elapsed time: 0:00:01.231503
+2024-05-08 22:59:00,547 - INFO - #####################################
+2024-05-08 22:59:00,547 - INFO - Running dataset: [All]
+2024-05-08 22:59:00,548 - INFO - #####################################
+2024-05-08 22:59:02,540 - INFO - Starting MLP model...[2024-05-08 22:59:02]
+2024-05-08 22:59:03,891 - INFO - MLP model finished. Elapsed time: 0:00:01.350944
+2024-05-08 22:59:42,703 - INFO - #####################################
+2024-05-08 22:59:42,704 - INFO - Running dataset: [All]
+2024-05-08 22:59:42,704 - INFO - #####################################
+2024-05-08 22:59:44,548 - INFO - Starting MLP model...[2024-05-08 22:59:44]
+2024-05-08 22:59:45,608 - INFO - MLP model finished. Elapsed time: 0:00:01.060648
+2024-05-08 22:59:57,767 - INFO - #####################################
+2024-05-08 22:59:57,768 - INFO - Running dataset: [All]
+2024-05-08 22:59:57,768 - INFO - #####################################
+2024-05-08 22:59:59,687 - INFO - Starting MLP model...[2024-05-08 22:59:59]
+2024-05-08 22:59:59,705 - INFO - MLP model finished. Elapsed time: 0:00:00.018294
+2024-05-08 23:00:23,233 - INFO - #####################################
+2024-05-08 23:00:23,233 - INFO - Running dataset: [All]
+2024-05-08 23:00:23,234 - INFO - #####################################
+2024-05-08 23:00:25,125 - INFO - Starting MLP model...[2024-05-08 23:00:25]
+2024-05-08 23:00:25,141 - INFO - MLP model finished. Elapsed time: 0:00:00.015983
+2024-05-08 23:14:30,414 - INFO - #####################################
+2024-05-08 23:14:30,414 - INFO - Running dataset: [All]
+2024-05-08 23:14:30,415 - INFO - #####################################
+2024-05-08 23:14:32,317 - INFO - Starting Logistic Regression model...[2024-05-08 23:14:32]
+2024-05-08 23:14:32,543 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.225904
+2024-05-08 23:14:32,557 - INFO - Starting MLP model...[2024-05-08 23:14:32]
+2024-05-08 23:14:34,175 - INFO - MLP model finished. Elapsed time: 0:00:01.617904
+2024-05-08 23:14:34,184 - INFO - Starting SGD model...[2024-05-08 23:14:34]
+2024-05-08 23:14:34,231 - INFO - SGD model finished. Elapsed time: 0:00:00.047344
+2024-05-08 23:14:34,245 - INFO - Starting Linear regression model...[2024-05-08 23:14:34]
+2024-05-08 23:14:34,252 - INFO - Linear regression model finished. Elapsed time: 0:00:00.007000
+2024-05-08 23:14:34,262 - INFO - Starting CNN model...[2024-05-08 23:14:34]
+2024-05-08 23:14:42,130 - INFO - CNN model finished. Elapsed time: 0:00:07.867266
+2024-05-08 23:14:42,130 - INFO - CNN model finished. Elapsed time: 0:00:07.867266
+2024-05-08 23:17:15,548 - INFO - #####################################
+2024-05-08 23:17:15,549 - INFO - Running dataset: [All]
+2024-05-08 23:17:15,549 - INFO - #####################################
+2024-05-08 23:17:17,516 - INFO - Starting Logistic Regression model...[2024-05-08 23:17:17]
+2024-05-08 23:17:17,519 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.002999
+2024-05-08 23:17:17,527 - INFO - Starting MLP model...[2024-05-08 23:17:17]
+2024-05-08 23:17:17,548 - INFO - MLP model finished. Elapsed time: 0:00:00.020186
+2024-05-08 23:17:17,557 - INFO - Starting SGD model...[2024-05-08 23:17:17]
+2024-05-08 23:17:17,561 - INFO - SGD model finished. Elapsed time: 0:00:00.003999
+2024-05-08 23:17:17,568 - INFO - Starting Linear regression model...[2024-05-08 23:17:17]
+2024-05-08 23:17:17,569 - INFO - Linear regression model finished. Elapsed time: 0:00:00.001000
+2024-05-08 23:17:17,577 - INFO - Starting CNN model...[2024-05-08 23:17:17]
+2024-05-08 23:17:25,662 - INFO - CNN model finished. Elapsed time: 0:00:08.084916
+2024-05-08 23:17:25,663 - INFO - CNN model finished. Elapsed time: 0:00:08.085938
+2024-05-08 23:17:42,292 - INFO - #####################################
+2024-05-08 23:17:42,293 - INFO - Running dataset: [All]
+2024-05-08 23:17:42,293 - INFO - #####################################
+2024-05-08 23:17:44,084 - INFO - Starting Logistic Regression model...[2024-05-08 23:17:44]
+2024-05-08 23:17:44,089 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.005155
+2024-05-08 23:17:44,099 - INFO - Starting MLP model...[2024-05-08 23:17:44]
+2024-05-08 23:17:44,116 - INFO - MLP model finished. Elapsed time: 0:00:00.016462
+2024-05-08 23:17:44,125 - INFO - Starting SGD model...[2024-05-08 23:17:44]
+2024-05-08 23:17:44,128 - INFO - SGD model finished. Elapsed time: 0:00:00.003001
+2024-05-08 23:17:44,136 - INFO - Starting Linear regression model...[2024-05-08 23:17:44]
+2024-05-08 23:17:44,138 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002252
+2024-05-08 23:17:44,146 - INFO - Starting CNN model...[2024-05-08 23:17:44]
+2024-05-08 23:17:51,925 - INFO - CNN model finished. Elapsed time: 0:00:07.778391
+2024-05-08 23:17:51,925 - INFO - CNN model finished. Elapsed time: 0:00:07.778391
+2024-05-08 23:18:55,639 - INFO - #####################################
+2024-05-08 23:18:55,640 - INFO - Running dataset: [All]
+2024-05-08 23:18:55,640 - INFO - #####################################
+2024-05-08 23:18:57,697 - INFO - Starting Logistic Regression model...[2024-05-08 23:18:57]
+2024-05-08 23:18:57,701 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.003999
+2024-05-08 23:18:57,712 - INFO - Starting MLP model...[2024-05-08 23:18:57]
+2024-05-08 23:18:57,730 - INFO - MLP model finished. Elapsed time: 0:00:00.018003
+2024-05-08 23:18:57,742 - INFO - Starting SGD model...[2024-05-08 23:18:57]
+2024-05-08 23:18:57,745 - INFO - SGD model finished. Elapsed time: 0:00:00.002999
+2024-05-08 23:18:57,752 - INFO - Starting Linear regression model...[2024-05-08 23:18:57]
+2024-05-08 23:18:57,754 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002004
+2024-05-08 23:18:57,761 - INFO - Starting CNN model...[2024-05-08 23:18:57]
+2024-05-08 23:19:05,617 - INFO - CNN model finished. Elapsed time: 0:00:07.855585
+2024-05-08 23:19:05,619 - INFO - CNN model finished. Elapsed time: 0:00:07.856835
+2024-05-08 23:20:20,381 - INFO - #####################################
+2024-05-08 23:20:20,381 - INFO - Running dataset: [All]
+2024-05-08 23:20:20,381 - INFO - #####################################
+2024-05-08 23:20:22,325 - INFO - Starting Logistic Regression model...[2024-05-08 23:20:22]
+2024-05-08 23:20:22,328 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.003002
+2024-05-08 23:20:22,331 - INFO - Starting MLP model...[2024-05-08 23:20:22]
+2024-05-08 23:20:22,352 - INFO - MLP model finished. Elapsed time: 0:00:00.022192
+2024-05-08 23:20:22,354 - INFO - Starting SGD model...[2024-05-08 23:20:22]
+2024-05-08 23:20:22,359 - INFO - SGD model finished. Elapsed time: 0:00:00.005008
+2024-05-08 23:20:22,362 - INFO - Starting Linear regression model...[2024-05-08 23:20:22]
+2024-05-08 23:20:22,365 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002986
+2024-05-08 23:20:22,367 - INFO - Starting CNN model...[2024-05-08 23:20:22]
+2024-05-08 23:20:30,125 - INFO - CNN model finished. Elapsed time: 0:00:07.758511
+2024-05-08 23:20:30,125 - INFO - CNN model finished. Elapsed time: 0:00:07.758511
+2024-05-08 23:21:16,440 - INFO - #####################################
+2024-05-08 23:21:16,441 - INFO - Running dataset: [All]
+2024-05-08 23:21:16,441 - INFO - #####################################
+2024-05-08 23:21:18,422 - INFO - Starting Logistic Regression model...[2024-05-08 23:21:18]
+2024-05-08 23:21:18,424 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.002155
+2024-05-08 23:21:36,995 - INFO - #####################################
+2024-05-08 23:21:36,995 - INFO - Running dataset: [All]
+2024-05-08 23:21:36,995 - INFO - #####################################
+2024-05-08 23:21:39,003 - INFO - Starting Logistic Regression model...[2024-05-08 23:21:39]
+2024-05-08 23:21:39,007 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.003998
+2024-05-08 23:23:05,945 - INFO - #####################################
+2024-05-08 23:23:05,945 - INFO - Running dataset: [All]
+2024-05-08 23:23:05,945 - INFO - #####################################
+2024-05-08 23:23:08,171 - INFO - Starting Logistic Regression model...[2024-05-08 23:23:08]
+2024-05-08 23:23:08,174 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.002997
+2024-05-08 23:23:08,181 - INFO - Starting MLP model...[2024-05-08 23:23:08]
+2024-05-08 23:23:08,201 - INFO - MLP model finished. Elapsed time: 0:00:00.019607
+2024-05-08 23:23:08,210 - INFO - Starting SGD model...[2024-05-08 23:23:08]
+2024-05-08 23:23:08,214 - INFO - SGD model finished. Elapsed time: 0:00:00.004200
+2024-05-08 23:23:08,222 - INFO - Starting Linear regression model...[2024-05-08 23:23:08]
+2024-05-08 23:23:08,224 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002000
+2024-05-08 23:23:08,233 - INFO - Starting CNN model...[2024-05-08 23:23:08]
+2024-05-08 23:23:16,503 - INFO - CNN model finished. Elapsed time: 0:00:08.269812
+2024-05-08 23:23:16,503 - INFO - CNN model finished. Elapsed time: 0:00:08.269812
+2024-05-08 23:25:01,953 - INFO - #####################################
+2024-05-08 23:25:01,953 - INFO - Running dataset: [All]
+2024-05-08 23:25:01,954 - INFO - #####################################
+2024-05-08 23:27:59,527 - INFO - #####################################
+2024-05-08 23:27:59,527 - INFO - Running dataset: [All]
+2024-05-08 23:27:59,527 - INFO - #####################################
+2024-05-08 23:28:01,549 - INFO - Starting Logistic Regression model...[2024-05-08 23:28:01]
+2024-05-08 23:28:01,552 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.002998
+2024-05-08 23:28:01,774 - INFO - Starting MLP model...[2024-05-08 23:28:01]
+2024-05-08 23:28:01,797 - INFO - MLP model finished. Elapsed time: 0:00:00.023420
+2024-05-08 23:28:01,938 - INFO - Starting SGD model...[2024-05-08 23:28:01]
+2024-05-08 23:28:01,944 - INFO - SGD model finished. Elapsed time: 0:00:00.006002
+2024-05-08 23:28:02,103 - INFO - Starting Linear regression model...[2024-05-08 23:28:02]
+2024-05-08 23:28:02,106 - INFO - Linear regression model finished. Elapsed time: 0:00:00.003001
+2024-05-08 23:28:02,262 - INFO - Starting CNN model...[2024-05-08 23:28:02]
+2024-05-08 23:28:10,303 - INFO - CNN model finished. Elapsed time: 0:00:08.040205
+2024-05-08 23:28:10,303 - INFO - CNN model finished. Elapsed time: 0:00:08.041214
+2024-05-08 23:35:09,298 - INFO - #####################################
+2024-05-08 23:35:09,298 - INFO - Running dataset: [All]
+2024-05-08 23:35:09,299 - INFO - #####################################
+2024-05-08 23:35:11,622 - INFO - Starting Logistic Regression model...[2024-05-08 23:35:11]
+2024-05-08 23:35:11,626 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.004002
+2024-05-08 23:35:11,864 - INFO - Starting MLP model...[2024-05-08 23:35:11]
+2024-05-08 23:35:11,890 - INFO - MLP model finished. Elapsed time: 0:00:00.026260
+2024-05-08 23:35:12,081 - INFO - Starting SGD model...[2024-05-08 23:35:12]
+2024-05-08 23:35:12,085 - INFO - SGD model finished. Elapsed time: 0:00:00.003993
+2024-05-08 23:35:12,275 - INFO - Starting Linear regression model...[2024-05-08 23:35:12]
+2024-05-08 23:35:12,278 - INFO - Linear regression model finished. Elapsed time: 0:00:00.002995
+2024-05-08 23:35:12,468 - INFO - Starting CNN model...[2024-05-08 23:35:12]
+2024-05-08 23:35:20,143 - INFO - CNN model finished. Elapsed time: 0:00:07.673973
+2024-05-08 23:35:20,143 - INFO - CNN model finished. Elapsed time: 0:00:07.675971
+2024-05-08 23:37:29,977 - INFO - #####################################
+2024-05-08 23:37:29,977 - INFO - Running dataset: [All]
+2024-05-08 23:37:29,977 - INFO - #####################################
+2024-05-08 23:37:31,897 - INFO - Starting Logistic Regression model...[2024-05-08 23:37:31]
+2024-05-08 23:37:31,900 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.003997
+2024-05-08 23:37:32,172 - INFO - Starting MLP model...[2024-05-08 23:37:32]
+2024-05-08 23:37:32,192 - INFO - MLP model finished. Elapsed time: 0:00:00.020324
+2024-05-08 23:37:32,377 - INFO - Starting SGD model...[2024-05-08 23:37:32]
+2024-05-08 23:37:32,382 - INFO - SGD model finished. Elapsed time: 0:00:00.004998
+2024-05-08 23:37:32,584 - INFO - Starting Linear regression model...[2024-05-08 23:37:32]
+2024-05-08 23:37:32,588 - INFO - Linear regression model finished. Elapsed time: 0:00:00.003344
+2024-05-08 23:37:32,792 - INFO - Starting CNN model...[2024-05-08 23:37:32]
+2024-05-08 23:37:40,904 - INFO - CNN model finished. Elapsed time: 0:00:08.112426
+2024-05-08 23:37:40,904 - INFO - CNN model finished. Elapsed time: 0:00:08.112426
+2024-05-08 23:40:02,590 - INFO - #####################################
+2024-05-08 23:40:02,590 - INFO - Running dataset: [All]
+2024-05-08 23:40:02,590 - INFO - #####################################
+2024-05-08 23:40:04,534 - INFO - Starting Logistic Regression model...[2024-05-08 23:40:04]
+2024-05-08 23:40:04,537 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.002996
+2024-05-08 23:40:04,545 - INFO - Starting MLP model...[2024-05-08 23:40:04]
+2024-05-08 23:40:04,566 - INFO - MLP model finished. Elapsed time: 0:00:00.021484
+2024-05-08 23:40:04,577 - INFO - Starting SGD model...[2024-05-08 23:40:04]
+2024-05-08 23:40:04,580 - INFO - SGD model finished. Elapsed time: 0:00:00.002999
+2024-05-08 23:40:04,590 - INFO - Starting Linear regression model...[2024-05-08 23:40:04]
+2024-05-08 23:40:04,592 - INFO - Linear regression model finished. Elapsed time: 0:00:00.001998
+2024-05-08 23:40:04,604 - INFO - Starting CNN model...[2024-05-08 23:40:04]
+2024-05-08 23:40:12,276 - INFO - CNN model finished. Elapsed time: 0:00:07.671859
+2024-05-08 23:40:12,276 - INFO - CNN model finished. Elapsed time: 0:00:07.671859
+2024-05-08 23:42:36,589 - INFO - #####################################
+2024-05-08 23:42:36,589 - INFO - Running dataset: [All]
+2024-05-08 23:42:36,589 - INFO - #####################################
+2024-05-09 01:39:33,657 - INFO - Starting Logistic Regression model...[2024-05-09 01:39:33]
+2024-05-09 01:43:29,482 - INFO - Logistic Regression model finished. Elapsed time: 0:03:55.827991
+2024-05-09 01:43:34,074 - INFO - Starting MLP model...[2024-05-09 01:43:34]
+2024-05-09 02:26:36,338 - INFO - MLP model finished. Elapsed time: 0:43:02.259825
+2024-05-09 02:26:41,188 - INFO - Starting SGD model...[2024-05-09 02:26:41]
+2024-05-09 02:36:03,152 - INFO - SGD model finished. Elapsed time: 0:09:21.963677
+2024-05-09 02:36:07,679 - INFO - Starting Linear regression model...[2024-05-09 02:36:07]
+2024-05-09 02:36:11,635 - INFO - Linear regression model finished. Elapsed time: 0:00:03.955361
+2024-05-09 02:36:15,900 - INFO - Starting CNN model...[2024-05-09 02:36:15]
+2024-05-09 04:31:39,905 - INFO - CNN model finished. Elapsed time: 1:55:24.004084
+2024-05-09 04:31:39,912 - INFO - CNN model finished. Elapsed time: 1:55:24.012106
+2024-05-15 20:11:21,380 - INFO - #####################################
+2024-05-15 20:11:21,380 - INFO - Running dataset: [All]
+2024-05-15 20:11:21,380 - INFO - #####################################
+2024-05-15 20:16:05,218 - INFO - #####################################
+2024-05-15 20:16:05,219 - INFO - Running dataset: [All]
+2024-05-15 20:16:05,219 - INFO - #####################################
+2024-05-15 20:16:10,727 - INFO - Starting Logistic Regression model...[2024-05-15 20:16:10]
+2024-05-15 20:16:10,915 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.187946
+2024-05-15 20:16:10,925 - INFO - Starting MLP model...[2024-05-15 20:16:10]
+2024-05-15 20:16:17,879 - INFO - MLP model finished. Elapsed time: 0:00:06.953955
+2024-05-15 20:16:17,890 - INFO - Starting SGD model...[2024-05-15 20:16:17]
+2024-05-15 20:16:18,281 - INFO - SGD model finished. Elapsed time: 0:00:00.391181
+2024-05-15 20:16:18,292 - INFO - Starting Linear regression model...[2024-05-15 20:16:18]
+2024-05-15 20:16:18,318 - INFO - Linear regression model finished. Elapsed time: 0:00:00.025000
+2024-05-29 16:03:24,287 - INFO - #####################################
+2024-05-29 16:03:24,287 - INFO - Running dataset: [All]
+2024-05-29 16:03:24,287 - INFO - #####################################
+2024-05-29 16:03:29,456 - INFO - Starting Logistic Regression model...[2024-05-29 16:03:29]
+2024-05-29 16:03:29,466 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.010009
+2024-05-29 16:03:29,466 - INFO - Starting MLP model...[2024-05-29 16:03:29]
+2024-05-29 16:03:29,497 - INFO - MLP model finished. Elapsed time: 0:00:00.031262
+2024-05-29 16:03:29,497 - INFO - Starting SGD model...[2024-05-29 16:03:29]
+2024-05-29 16:03:29,513 - INFO - SGD model finished. Elapsed time: 0:00:00.015624
+2024-05-29 16:03:29,513 - INFO - Starting Linear regression model...[2024-05-29 16:03:29]
+2024-05-29 16:03:29,528 - INFO - Linear regression model finished. Elapsed time: 0:00:00.015632
+2024-05-29 16:05:18,403 - INFO - #####################################
+2024-05-29 16:05:18,403 - INFO - Running dataset: [All]
+2024-05-29 16:05:18,403 - INFO - #####################################
+2024-05-29 16:05:20,360 - INFO - Starting Logistic Regression model...[2024-05-29 16:05:20]
+2024-05-29 16:05:20,360 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00
+2024-05-29 16:05:20,371 - INFO - Starting MLP model...[2024-05-29 16:05:20]
+2024-05-29 16:05:20,393 - INFO - MLP model finished. Elapsed time: 0:00:00.022776
+2024-05-29 16:05:20,404 - INFO - Starting SGD model...[2024-05-29 16:05:20]
+2024-05-29 16:05:20,412 - INFO - SGD model finished. Elapsed time: 0:00:00.007432
+2024-05-29 16:05:20,422 - INFO - Starting Linear regression model...[2024-05-29 16:05:20]
+2024-05-29 16:05:20,422 - INFO - Linear regression model finished. Elapsed time: 0:00:00
+2024-05-29 16:05:20,440 - INFO - Starting CNN model...[2024-05-29 16:05:20]
+2024-05-29 16:05:28,510 - INFO - CNN model finished. Elapsed time: 0:00:08.069695
+2024-05-29 16:05:28,510 - INFO - CNN model finished. Elapsed time: 0:00:08.069695
+2024-05-29 20:41:56,460 - INFO - #####################################
+2024-05-29 20:41:56,460 - INFO - Running dataset: [All]
+2024-05-29 20:41:56,460 - INFO - #####################################
+2024-05-29 20:41:58,805 - INFO - Starting Logistic Regression model...[2024-05-29 20:41:58]
+2024-05-29 20:41:58,816 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.010911
+2024-05-29 20:47:19,263 - INFO - #####################################
+2024-05-29 20:47:19,263 - INFO - Running dataset: [All]
+2024-05-29 20:47:19,263 - INFO - #####################################
+2024-05-29 20:47:21,359 - INFO - Starting Logistic Regression model...[2024-05-29 20:47:21]
+2024-05-29 20:47:22,260 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.901417
+2024-05-29 20:47:22,373 - INFO - Starting Logistic Regression model...[2024-05-29 20:47:22]
+2024-05-29 20:47:22,383 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.010080
+2024-05-29 20:47:22,500 - INFO - Starting Logistic Regression model...[2024-05-29 20:47:22]
+2024-05-29 20:47:22,511 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.010708
+2024-05-29 20:47:22,635 - INFO - Starting Logistic Regression model...[2024-05-29 20:47:22]
+2024-05-29 20:47:22,639 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.004059
+2024-05-29 20:47:22,758 - INFO - Starting Logistic Regression model...[2024-05-29 20:47:22]
+2024-05-29 20:47:22,774 - INFO - Logistic Regression model finished. Elapsed time: 0:00:00.015712
+2024-05-29 20:47:22,884 - INFO - Starting MLP model...[2024-05-29 20:47:22]
+2024-05-29 20:47:33,436 - INFO - MLP model finished. Elapsed time: 0:00:10.551795
+2024-05-29 20:47:33,546 - INFO - Starting MLP model...[2024-05-29 20:47:33]
+2024-05-29 20:47:33,647 - INFO - MLP model finished. Elapsed time: 0:00:00.101118
+2024-05-29 20:47:33,762 - INFO - Starting MLP model...[2024-05-29 20:47:33]
+2024-05-29 20:47:33,863 - INFO - MLP model finished. Elapsed time: 0:00:00.101173
+2024-05-29 20:47:33,975 - INFO - Starting MLP model...[2024-05-29 20:47:33]
+2024-05-29 20:47:34,108 - INFO - MLP model finished. Elapsed time: 0:00:00.132617
+2024-05-29 20:47:34,217 - INFO - Starting MLP model...[2024-05-29 20:47:34]
+2024-05-29 20:47:34,317 - INFO - MLP model finished. Elapsed time: 0:00:00.100772
+2024-05-29 20:47:34,428 - INFO - Starting SGD model...[2024-05-29 20:47:34]
+2024-05-29 20:47:34,662 - INFO - SGD model finished. Elapsed time: 0:00:00.234623
+2024-05-29 20:47:34,773 - INFO - Starting SGD model...[2024-05-29 20:47:34]
+2024-05-29 20:47:34,773 - INFO - SGD model finished. Elapsed time: 0:00:00
+2024-05-29 20:47:34,893 - INFO - Starting SGD model...[2024-05-29 20:47:34]
+2024-05-29 20:47:34,900 - INFO - SGD model finished. Elapsed time: 0:00:00.006776
+2024-05-29 20:47:35,000 - INFO - Starting SGD model...[2024-05-29 20:47:35]
+2024-05-29 20:47:35,010 - INFO - SGD model finished. Elapsed time: 0:00:00.010045
+2024-05-29 20:47:35,133 - INFO - Starting SGD model...[2024-05-29 20:47:35]
+2024-05-29 20:47:35,140 - INFO - SGD model finished. Elapsed time: 0:00:00.007621
+2024-05-29 20:47:35,261 - INFO - Starting Linear Regression model...[2024-05-29 20:47:35]
+2024-05-29 20:47:35,293 - INFO - Linear Regression model finished. Elapsed time: 0:00:00.032022
+2024-05-29 20:47:35,407 - INFO - Starting Linear Regression model...[2024-05-29 20:47:35]
+2024-05-29 20:47:35,415 - INFO - Linear Regression model finished. Elapsed time: 0:00:00.008031
+2024-05-29 20:47:35,527 - INFO - Starting Linear Regression model...[2024-05-29 20:47:35]
+2024-05-29 20:47:35,531 - INFO - Linear Regression model finished. Elapsed time: 0:00:00.003610
+2024-05-29 20:47:35,654 - INFO - Starting Linear Regression model...[2024-05-29 20:47:35]
+2024-05-29 20:47:35,654 - INFO - Linear Regression model finished. Elapsed time: 0:00:00.001510
+2024-05-29 20:47:35,747 - INFO - Starting Linear Regression model...[2024-05-29 20:47:35]
+2024-05-29 20:47:35,762 - INFO - Linear Regression model finished. Elapsed time: 0:00:00.015627
+2024-05-29 20:47:35,880 - INFO - Starting CNN model...[2024-05-29 20:47:35]
+2024-05-29 20:48:01,140 - INFO - CNN model finished. Elapsed time: 0:00:25.259385
+2024-05-29 20:48:01,140 - INFO - CNN model finished. Elapsed time: 0:00:25.260369
+2024-05-29 20:48:01,270 - INFO - Starting CNN model...[2024-05-29 20:48:01]
+2024-05-29 20:48:27,492 - INFO - CNN model finished. Elapsed time: 0:00:26.221836
+2024-05-29 20:48:27,492 - INFO - CNN model finished. Elapsed time: 0:00:26.221836
+2024-05-29 20:48:27,594 - INFO - Starting CNN model...[2024-05-29 20:48:27]
+2024-05-29 20:48:59,828 - INFO - CNN model finished. Elapsed time: 0:00:32.234700
+2024-05-29 20:48:59,829 - INFO - CNN model finished. Elapsed time: 0:00:32.235701
+2024-05-29 20:48:59,975 - INFO - Starting CNN model...[2024-05-29 20:48:59]
+2024-05-29 20:49:27,259 - INFO - CNN model finished. Elapsed time: 0:00:27.283522
+2024-05-29 20:49:27,259 - INFO - CNN model finished. Elapsed time: 0:00:27.284515
+2024-05-29 20:49:27,368 - INFO - Starting CNN model...[2024-05-29 20:49:27]
+2024-05-29 20:49:56,630 - INFO - CNN model finished. Elapsed time: 0:00:29.261679
+2024-05-29 20:49:56,630 - INFO - CNN model finished. Elapsed time: 0:00:29.261679
+2024-05-29 21:17:07,257 - INFO - #####################################
+2024-05-29 21:17:07,259 - INFO - Running dataset: [All]
+2024-05-29 21:17:07,260 - INFO - #####################################
+2024-05-29 21:19:11,388 - INFO - #####################################
+2024-05-29 21:19:11,388 - INFO - Running dataset: [All]
+2024-05-29 21:19:11,388 - INFO - #####################################
+2024-05-29 21:42:13,710 - INFO - #####################################
+2024-05-29 21:42:13,712 - INFO - Running dataset: [All]
+2024-05-29 21:42:13,712 - INFO - #####################################
+2024-05-29 21:43:30,238 - INFO - #####################################
+2024-05-29 21:43:30,240 - INFO - Running dataset: [All]
+2024-05-29 21:43:30,240 - INFO - #####################################
+2024-05-29 21:47:01,303 - INFO - #####################################
+2024-05-29 21:47:01,304 - INFO - Running dataset: [All]
+2024-05-29 21:47:01,304 - INFO - #####################################
+2024-05-29 22:47:35,374 - INFO - #####################################
+2024-05-29 22:47:35,376 - INFO - Running dataset: [All]
+2024-05-29 22:47:35,376 - INFO - #####################################
+2024-05-30 03:57:58,252 - INFO - Starting Logistic Regression model...[2024-05-30 03:57:58]
+2024-05-30 04:41:20,947 - INFO - Logistic Regression model finished. Elapsed time: 0:43:22.700077
+2024-05-30 06:41:49,212 - INFO - Starting Logistic Regression model...[2024-05-30 06:41:49]
+2024-05-30 06:42:01,226 - INFO - Logistic Regression model finished. Elapsed time: 0:00:12.034745
+2024-05-30 08:44:57,559 - INFO - Starting Logistic Regression model...[2024-05-30 08:44:57]
+2024-05-30 08:45:17,118 - INFO - Logistic Regression model finished. Elapsed time: 0:00:19.561084
+2024-05-30 10:53:29,760 - INFO - Starting Logistic Regression model...[2024-05-30 10:53:29]
+2024-05-30 10:53:45,645 - INFO - Logistic Regression model finished. Elapsed time: 0:00:15.888609
+2024-05-30 12:59:44,675 - INFO - Starting Logistic Regression model...[2024-05-30 12:59:44]
+2024-05-30 13:00:02,526 - INFO - Logistic Regression model finished. Elapsed time: 0:00:17.853480
+2024-05-30 15:05:38,066 - INFO - Starting MLP model...[2024-05-30 15:05:38]
